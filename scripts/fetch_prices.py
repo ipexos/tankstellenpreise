@@ -22,7 +22,7 @@ from urllib.error import HTTPError, URLError
 
 API_BASE = "https://creativecommons.tankerkoenig.de/json/list.php"
 FUELS = ["e5", "e10", "diesel"]
-HISTORY_MAX_ENTRIES = 720  # ~30 Tage bei stündlichem Lauf
+HISTORY_MAX_ENTRIES = 2880  # ~30 Tage bei 15 minütlichen Lauf
 
 ROOT = Path(__file__).resolve().parent.parent
 CITIES_FILE = ROOT / "cities.json"
