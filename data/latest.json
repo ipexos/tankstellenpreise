@@ -1,5 +1,130 @@
 {
-  "updated_at": null,
-  "national_average": { "e5": null, "e10": null, "diesel": null },
-  "cities": []
+  "updated_at": "2026-07-20T12:58:18+00:00",
+  "national_average": {
+    "e5": null,
+    "e10": null,
+    "diesel": null
+  },
+  "cities": [
+    {
+      "name": "Berlin",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Hamburg",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "München",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Köln",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Frankfurt",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Stuttgart",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Düsseldorf",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Leipzig",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Dortmund",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Essen",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Bremen",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    },
+    {
+      "name": "Dresden",
+      "station_count": 0,
+      "e5": null,
+      "e5_cheapest": null,
+      "e10": null,
+      "e10_cheapest": null,
+      "diesel": null,
+      "diesel_cheapest": null
+    }
+  ]
 }
