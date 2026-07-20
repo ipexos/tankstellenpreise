@@ -37,7 +37,7 @@ def fetch_city(api_key: str, city: dict, retries: int = 3) -> list:
         "lat": city["lat"],
         "lng": city["lng"],
         "rad": city["radius"],
-        "sort": "price",
+        "sort": "dist",
         "type": "all",
         "apikey": api_key,
     }
