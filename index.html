@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spritpreise Deutschland — Live-Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="signboard">
+    <div class="signboard__inner">
+      <div class="signboard__title">
+        <span class="signboard__route">B1</span>
+        <span>Spritpreise Deutschland</span>
+      </div>
+      <div class="signboard__meta">
+        <span id="updated-at">wird geladen…</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="totems" aria-label="Bundesweiter Durchschnittspreis">
+      <div class="totem" data-fuel="e5">
+        <div class="totem__strip"></div>
+        <div class="totem__label">Super E5</div>
+        <div class="totem__price" data-price="e5">– , – –</div>
+        <div class="totem__unit">€ / Liter · Ø Deutschland</div>
+      </div>
+      <div class="totem" data-fuel="e10">
+        <div class="totem__strip"></div>
+        <div class="totem__label">Super E10</div>
+        <div class="totem__price" data-price="e10">– , – –</div>
+        <div class="totem__unit">€ / Liter · Ø Deutschland</div>
+      </div>
+      <div class="totem" data-fuel="diesel">
+        <div class="totem__strip"></div>
+        <div class="totem__label">Diesel</div>
+        <div class="totem__price" data-price="diesel">– , – –</div>
+        <div class="totem__unit">€ / Liter · Ø Deutschland</div>
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="city-heading">
+      <div class="panel__header">
+        <h2 id="city-heading">Städtevergleich</h2>
+        <div class="fuel-toggle" role="tablist" aria-label="Kraftstoffsorte wählen">
+          <button class="fuel-toggle__btn is-active" data-fuel="e5" role="tab" aria-selected="true">E5</button>
+          <button class="fuel-toggle__btn" data-fuel="e10" role="tab" aria-selected="false">E10</button>
+          <button class="fuel-toggle__btn" data-fuel="diesel" role="tab" aria-selected="false">Diesel</button>
+        </div>
+      </div>
+      <p class="panel__note">Durchschnittspreis geöffneter Tankstellen im 8-km-Umkreis von 12 Großstädten, sortiert vom günstigsten zum teuersten Standort.</p>
+      <div class="chart-wrap chart-wrap--tall">
+        <canvas id="city-chart"></canvas>
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="trend-heading">
+      <div class="panel__header">
+        <h2 id="trend-heading">Verlauf</h2>
+        <div class="fuel-toggle" role="tablist" aria-label="Zeitraum wählen">
+          <button class="fuel-toggle__btn is-active" data-range="48h" role="tab" aria-selected="true">48 Std.</button>
+          <button class="fuel-toggle__btn" data-range="7d" role="tab" aria-selected="false">7 Tage</button>
+          <button class="fuel-toggle__btn" data-range="all" role="tab" aria-selected="false">Alle</button>
+        </div>
+      </div>
+      <p class="panel__note">Bundesweiter Durchschnitt je Kraftstoffsorte über Zeit — standardmäßig die letzten 48 Stunden.</p>
+      <div class="chart-wrap">
+        <canvas id="trend-chart"></canvas>
+      </div>
+    </section>
+
+    <section class="panel" id="empty-state" hidden>
+      <h2>Noch keine Daten</h2>
+      <p class="panel__note">
+        Der erste Datenabruf ist noch nicht gelaufen. Sobald der GitHub-Actions-Workflow
+        <code>update-prices.yml</code> einmal ausgeführt wurde (automatisch stündlich, oder manuell über
+        „Run workflow“), erscheinen hier Preise und Verlauf.
+      </p>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Datenquelle: <a href="https://creativecommons.tankerkoenig.de" target="_blank" rel="noopener">Tankerkönig Spritpreis-API</a>
+      (CC BY 4.0). Durchschnittswerte sind ein einfacher Mittelwert über die erfassten Städte, keine
+      bevölkerungsgewichtete Statistik und keine amtliche Quelle.
+    </p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
