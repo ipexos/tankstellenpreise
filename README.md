@@ -1,4 +1,4 @@
-# Spritpreise Deutschland — Live-Dashboard
+# Spritpreise Deutschland — Live-Dashboard 
 
 Ein statisches Dashboard für Benzin- und Dieselpreise in Deutschland, gespeist von der
 [Tankerkönig-API](https://creativecommons.tankerkoenig.de). Läuft komplett auf GitHub:
