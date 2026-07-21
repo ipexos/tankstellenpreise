@@ -3,6 +3,7 @@ name: Spritpreise aktualisieren
 on:
   schedule:
     - cron: '*/5 * * * *'
+      timezone: 'Europe/Berlin'
   workflow_dispatch: {}
 
 permissions:
