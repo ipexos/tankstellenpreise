@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T22:15:25+00:00",
+  "updated_at": "2026-07-22T23:17:15+00:00",
   "national_average": {
     "e5": 2.205,
     "e10": 2.146,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.186,
+      "station_count": 70,
+      "e5": 2.185,
       "e5_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
         "place": "Berlin",
         "price": 2.069
       },
-      "e10": 2.126,
+      "e10": 2.125,
       "e10_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
         "place": "Berlin",
         "price": 2.009
       },
-      "diesel": 2.137,
+      "diesel": 2.135,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
@@ -33,25 +33,25 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
-      "e5": 2.2,
+      "station_count": 72,
+      "e5": 2.199,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kieler Str. -",
         "place": "Hamburg",
         "price": 2.089
       },
-      "e10": 2.142,
+      "e10": 2.14,
       "e10_cheapest": {
-        "brand": "HEM",
-        "street": "Kieler Str. -",
+        "brand": "STAR",
+        "street": "Kieler Straße",
         "place": "Hamburg",
         "price": 2.059
       },
-      "diesel": 2.169,
+      "diesel": 2.167,
       "diesel_cheapest": {
-        "brand": "HEM",
-        "street": "Kieler Str. -",
+        "brand": "STAR",
+        "street": "Kieler Straße",
         "place": "Hamburg",
         "price": 2.059
       }
@@ -191,14 +191,14 @@
         "place": "Leipzig",
         "price": 2.188
       },
-      "e10": 2.147,
+      "e10": 2.148,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.128
       },
-      "diesel": 2.111,
+      "diesel": 2.113,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -209,14 +209,14 @@
     {
       "name": "Dortmund",
       "station_count": 30,
-      "e5": 2.228,
+      "e5": 2.227,
       "e5_cheapest": {
         "brand": "LOOS",
         "street": "Planetenfeldstraße",
         "place": "Dortmund",
         "price": 2.179
       },
-      "e10": 2.173,
+      "e10": 2.172,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Benninghofer Str.",
@@ -283,7 +283,7 @@
     },
     {
       "name": "Dresden",
-      "station_count": 17,
+      "station_count": 18,
       "e5": 2.185,
       "e5_cheapest": {
         "brand": "Greenline",
