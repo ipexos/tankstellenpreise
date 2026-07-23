@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:17:15+00:00",
+  "updated_at": "2026-07-23T00:15:20+00:00",
   "national_average": {
     "e5": 2.205,
     "e10": 2.146,
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
+      "station_count": 29,
       "e5": 2.219,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -166,7 +166,7 @@
         "place": "Düsseldorf",
         "price": 2.189
       },
-      "e10": 2.161,
+      "e10": 2.162,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.207,
+      "station_count": 20,
+      "e5": 2.209,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.188
       },
-      "e10": 2.148,
+      "e10": 2.15,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.128
       },
-      "diesel": 2.113,
+      "diesel": 2.116,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.191,
       "e5_cheapest": {
         "brand": "HEM",
@@ -273,7 +273,7 @@
         "place": "Bremen",
         "price": 1.999
       },
-      "diesel": 2.177,
+      "diesel": 2.178,
       "diesel_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
