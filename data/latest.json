@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T22:25:27+00:00",
+  "updated_at": "2026-07-25T23:28:02+00:00",
   "national_average": {
     "e5": 2.188,
     "e10": 2.129,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 74,
       "e5": 2.213,
       "e5_cheapest": {
         "brand": "SVG",
@@ -48,7 +48,7 @@
         "place": "Hamburg",
         "price": 2.109
       },
-      "diesel": 2.201,
+      "diesel": 2.2,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.233,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,12 +198,12 @@
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.156,
+      "diesel": 2.158,
       "diesel_cheapest": {
-        "brand": "STAR",
-        "street": "Leipziger Straße",
+        "brand": "Globus SB Warenhaus",
+        "street": "An der Passage",
         "place": "Leipzig",
-        "price": 2.119
+        "price": 2.138
       }
     },
     {
@@ -266,7 +266,7 @@
         "place": "Bremen",
         "price": 2.069
       },
-      "e10": 2.106,
+      "e10": 2.105,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Oldenburger Straße",
@@ -278,7 +278,7 @@
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
-        "price": 2.169
+        "price": 2.159
       }
     },
     {
