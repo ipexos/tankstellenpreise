@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T23:33:13+00:00",
+  "updated_at": "2026-07-25T01:05:24+00:00",
   "national_average": {
     "e5": 2.188,
     "e10": 2.129,
@@ -8,8 +8,8 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
-      "e5": 2.159,
+      "station_count": 67,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 55,
+      "station_count": 54,
       "e5": 2.11,
       "e5_cheapest": {
         "brand": "ALLGUTH",
@@ -66,7 +66,7 @@
         "place": "München",
         "price": 2.049
       },
-      "e10": 2.049,
+      "e10": 2.05,
       "e10_cheapest": {
         "brand": "ALLGUTH",
         "street": "Chiemgaustr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.237,
+      "station_count": 26,
+      "e5": 2.236,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.169
       },
-      "e10": 2.178,
+      "e10": 2.176,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.109
       },
-      "diesel": 2.179,
+      "diesel": 2.178,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
