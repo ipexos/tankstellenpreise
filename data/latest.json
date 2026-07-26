@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T23:28:02+00:00",
+  "updated_at": "2026-07-26T01:06:51+00:00",
   "national_average": {
     "e5": 2.188,
     "e10": 2.129,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 69,
+      "station_count": 67,
       "e5": 2.157,
       "e5_cheapest": {
         "brand": "Q1",
@@ -58,8 +58,8 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.11,
+      "station_count": 54,
+      "e5": 2.111,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Chiemgaustr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.233,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,12 +198,12 @@
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.158,
+      "diesel": 2.156,
       "diesel_cheapest": {
-        "brand": "Globus SB Warenhaus",
-        "street": "An der Passage",
+        "brand": "STAR",
+        "street": "Leipziger Straße",
         "place": "Leipzig",
-        "price": 2.138
+        "price": 2.119
       }
     },
     {
