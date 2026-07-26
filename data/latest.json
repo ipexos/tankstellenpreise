@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T22:39:31+00:00",
+  "updated_at": "2026-07-26T23:39:10+00:00",
   "national_average": {
     "e5": 2.196,
     "e10": 2.136,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 69,
+      "station_count": 68,
       "e5": 2.168,
       "e5_cheapest": {
         "brand": "Q1",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.009
       },
-      "diesel": 2.178,
+      "diesel": 2.179,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.205,
       "e5_cheapest": {
         "brand": "STAR",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.242,
+      "station_count": 24,
+      "e5": 2.244,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.218
       },
-      "e10": 2.183,
+      "e10": 2.184,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
