@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-27T23:00:58+00:00",
+  "updated_at": "2026-07-28T00:07:28+00:00",
   "national_average": {
     "e5": 2.183,
     "e10": 2.124,
-    "diesel": 2.179
+    "diesel": 2.18
   },
   "cities": [
     {
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
+      "station_count": 29,
       "e5": 2.195,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.218,
+      "station_count": 20,
+      "e5": 2.22,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.189
       },
-      "e10": 2.159,
+      "e10": 2.161,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.129
       },
-      "diesel": 2.161,
+      "diesel": 2.163,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.168,
       "e5_cheapest": {
         "brand": "HEM",
