@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-31T22:43:14+00:00",
+  "updated_at": "2026-07-31T23:42:29+00:00",
   "national_average": {
-    "e5": 2.186,
+    "e5": 2.187,
     "e10": 2.128,
     "diesel": 2.21
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 66,
       "e5": 2.127,
       "e5_cheapest": {
         "brand": "Q1",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.029
       },
-      "diesel": 2.172,
+      "diesel": 2.173,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.176,
       "e5_cheapest": {
         "brand": "Markant",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.205,
+      "station_count": 24,
+      "e5": 2.206,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.179
       },
-      "e10": 2.146,
+      "e10": 2.147,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.208,
+      "diesel": 2.209,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
