@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-01T21:29:55+00:00",
+  "updated_at": "2026-08-01T22:27:52+00:00",
   "national_average": {
-    "e5": 2.185,
+    "e5": 2.186,
     "e10": 2.127,
-    "diesel": 2.204
+    "diesel": 2.203
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 69,
-      "e5": 2.118,
+      "station_count": 67,
+      "e5": 2.119,
       "e5_cheapest": {
         "brand": "Q1",
         "street": "Blankenburger Straße",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 75,
+      "station_count": 72,
       "e5": 2.183,
       "e5_cheapest": {
         "brand": "Markant",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 67,
-      "e5": 2.118,
+      "station_count": 55,
+      "e5": 2.12,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.048
       },
-      "e10": 2.058,
+      "e10": 2.061,
       "e10_cheapest": {
         "brand": "ALLGUTH",
         "street": "Chiemgaustr.",
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.162,
+      "diesel": 2.161,
       "diesel_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 45,
-      "e5": 2.214,
+      "station_count": 42,
+      "e5": 2.213,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.168
       },
-      "e10": 2.157,
+      "e10": 2.156,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.109
       },
-      "diesel": 2.245,
+      "diesel": 2.244,
       "diesel_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 38,
+      "station_count": 36,
       "e5": 2.222,
       "e5_cheapest": {
         "brand": "ARAL",
@@ -116,14 +116,14 @@
         "place": "Frankfurt",
         "price": 2.169
       },
-      "e10": 2.162,
+      "e10": 2.163,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Siemensstraße",
         "place": "Frankfurt",
         "price": 2.109
       },
-      "diesel": 2.247,
+      "diesel": 2.246,
       "diesel_cheapest": {
         "brand": "SB Tankstelle",
         "street": "Senefelder Str.",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 32,
-      "e5": 2.16,
+      "station_count": 25,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "SCHARR-Tankstelle",
         "street": "Handwerkstrasse",
         "place": "Stuttgart",
         "price": 2.119
       },
-      "e10": 2.1,
+      "e10": 2.098,
       "e10_cheapest": {
         "brand": "SCHARR-Tankstelle",
         "street": "Handwerkstrasse",
@@ -158,15 +158,15 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 33,
-      "e5": 2.201,
+      "station_count": 29,
+      "e5": 2.204,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.149
       },
-      "e10": 2.143,
+      "e10": 2.146,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
+      "station_count": 26,
       "e5": 2.154,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.078
       },
-      "diesel": 2.157,
+      "diesel": 2.156,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Leipziger Straße",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 29,
+      "station_count": 26,
       "e5": 2.235,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -273,12 +273,12 @@
         "place": "Bremen",
         "price": 2.029
       },
-      "diesel": 2.195,
+      "diesel": 2.194,
       "diesel_cheapest": {
-        "brand": "BMÖ Xpress",
-        "street": "Stresemannstraße",
-        "place": "Bremen",
-        "price": 2.169
+        "brand": "RATIO",
+        "street": "Henleinstr.",
+        "place": "Stuhr",
+        "price": 2.159
       }
     },
     {
