@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:27:52+00:00",
+  "updated_at": "2026-08-01T23:28:36+00:00",
   "national_average": {
     "e5": 2.186,
     "e10": 2.127,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 74,
       "e5": 2.183,
       "e5_cheapest": {
         "brand": "Markant",
@@ -41,7 +41,7 @@
         "place": "Hamburg",
         "price": 2.129
       },
-      "e10": 2.124,
+      "e10": 2.123,
       "e10_cheapest": {
         "brand": "Markant",
         "street": "Wandsbeker Zollstr.",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.154,
+      "station_count": 25,
+      "e5": 2.155,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -198,11 +198,11 @@
         "place": "Leipzig",
         "price": 2.078
       },
-      "diesel": 2.156,
+      "diesel": 2.157,
       "diesel_cheapest": {
-        "brand": "STAR",
-        "street": "Leipziger Straße",
-        "place": "Leipzig",
+        "brand": "TS am Marktkauf",
+        "street": "Städtelner Str.",
+        "place": "Markkleeberg",
         "price": 2.139
       }
     },
