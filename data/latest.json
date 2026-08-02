@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T23:28:36+00:00",
+  "updated_at": "2026-08-02T01:06:57+00:00",
   "national_average": {
     "e5": 2.186,
     "e10": 2.127,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 65,
       "e5": 2.119,
       "e5_cheapest": {
         "brand": "Q1",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.12,
+      "station_count": 54,
+      "e5": 2.121,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.048
       },
-      "e10": 2.061,
+      "e10": 2.062,
       "e10_cheapest": {
         "brand": "ALLGUTH",
         "street": "Chiemgaustr.",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.155,
+      "station_count": 26,
+      "e5": 2.154,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -198,11 +198,11 @@
         "place": "Leipzig",
         "price": 2.078
       },
-      "diesel": 2.157,
+      "diesel": 2.156,
       "diesel_cheapest": {
-        "brand": "TS am Marktkauf",
-        "street": "Städtelner Str.",
-        "place": "Markkleeberg",
+        "brand": "STAR",
+        "street": "Leipziger Straße",
+        "place": "Leipzig",
         "price": 2.139
       }
     },
