@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:30:46+00:00",
+  "updated_at": "2026-08-03T01:08:22+00:00",
   "national_average": {
     "e5": 2.189,
     "e10": 2.131,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
+      "station_count": 66,
       "e5": 2.122,
       "e5_cheapest": {
         "brand": "Q1",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.126,
+      "station_count": 54,
+      "e5": 2.127,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.048
       },
-      "e10": 2.067,
+      "e10": 2.068,
       "e10_cheapest": {
         "brand": "ALLGUTH",
         "street": "Chiemgaustr.",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.216,
+      "station_count": 26,
+      "e5": 2.215,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.189
       },
-      "e10": 2.157,
+      "e10": 2.156,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
