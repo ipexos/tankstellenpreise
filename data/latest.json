@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T22:18:29+00:00",
+  "updated_at": "2026-08-03T23:30:45+00:00",
   "national_average": {
     "e5": 2.176,
     "e10": 2.117,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.156,
       "e5_cheapest": {
         "brand": "Hoyer",
@@ -41,7 +41,7 @@
         "place": "Hamburg",
         "price": 2.119
       },
-      "e10": 2.098,
+      "e10": 2.097,
       "e10_cheapest": {
         "brand": "Hoyer",
         "street": "Spaldingstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.215,
+      "station_count": 25,
+      "e5": 2.216,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.189
       },
-      "e10": 2.156,
+      "e10": 2.157,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.129
       },
-      "diesel": 2.182,
+      "diesel": 2.183,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
