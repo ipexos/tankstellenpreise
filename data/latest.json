@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:30:45+00:00",
+  "updated_at": "2026-08-04T01:01:27+00:00",
   "national_average": {
     "e5": 2.176,
     "e10": 2.117,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
+      "station_count": 66,
       "e5": 2.142,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.126,
+      "station_count": 54,
+      "e5": 2.127,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 1.988
       },
-      "e10": 2.068,
+      "e10": 2.069,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.216,
+      "station_count": 26,
+      "e5": 2.215,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.189
       },
-      "e10": 2.157,
+      "e10": 2.156,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.129
       },
-      "diesel": 2.183,
+      "diesel": 2.182,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
