@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T23:44:56+00:00",
+  "updated_at": "2026-08-05T01:07:15+00:00",
   "national_average": {
     "e5": 2.155,
     "e10": 2.096,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.12,
+      "station_count": 66,
+      "e5": 2.119,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Reuter Str.",
         "place": "Berlin",
         "price": 2.069
       },
-      "e10": 2.061,
+      "e10": 2.06,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Reuter Str.",
         "place": "Berlin",
         "price": 2.009
       },
-      "diesel": 2.172,
+      "diesel": 2.171,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Reuter Str.",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 55,
+      "station_count": 54,
       "e5": 2.065,
       "e5_cheapest": {
         "brand": "",
@@ -66,7 +66,7 @@
         "place": "München",
         "price": 1.958
       },
-      "e10": 2.006,
+      "e10": 2.007,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.184,
+      "station_count": 26,
+      "e5": 2.183,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.149
       },
-      "e10": 2.125,
+      "e10": 2.124,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.098
       },
-      "diesel": 2.141,
+      "diesel": 2.14,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
