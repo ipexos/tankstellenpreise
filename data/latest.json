@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:34:30+00:00",
+  "updated_at": "2026-08-06T00:58:54+00:00",
   "national_average": {
     "e5": 2.135,
     "e10": 2.077,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
-      "e5": 2.112,
+      "station_count": 67,
+      "e5": 2.111,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.059
       },
-      "e10": 2.053,
+      "e10": 2.052,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 1.999
       },
-      "diesel": 2.157,
+      "diesel": 2.156,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Reuter Str.",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.056,
+      "station_count": 54,
+      "e5": 2.057,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 1.938
       },
-      "e10": 1.998,
+      "e10": 1.999,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
-      "e5": 2.156,
+      "station_count": 25,
+      "e5": 2.157,
       "e5_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Aktienstr.",
         "place": "Mülheim a.d. Ruhr",
         "price": 2.099
       },
-      "e10": 2.096,
+      "e10": 2.097,
       "e10_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Aktienstr.",
         "place": "Mülheim a.d. Ruhr",
         "price": 2.039
       },
-      "diesel": 2.167,
+      "diesel": 2.168,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
