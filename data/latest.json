@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:19:52+00:00",
+  "updated_at": "2026-08-07T21:59:10+00:00",
   "national_average": {
     "e5": 2.128,
     "e10": 2.07,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.094,
+      "station_count": 64,
+      "e5": 2.095,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.049
       },
-      "e10": 2.035,
+      "e10": 2.036,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 1.989
       },
-      "diesel": 2.136,
+      "diesel": 2.137,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 65,
-      "e5": 2.081,
+      "station_count": 64,
+      "e5": 2.082,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 1.989
       },
-      "e10": 2.021,
+      "e10": 2.022,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 1.929
       },
-      "diesel": 2.085,
+      "diesel": 2.084,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 45,
-      "e5": 2.156,
+      "station_count": 44,
+      "e5": 2.154,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.109
       },
-      "e10": 2.101,
+      "e10": 2.099,
       "e10_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.049
       },
-      "diesel": 2.182,
+      "diesel": 2.181,
       "diesel_cheapest": {
         "brand": "Shell",
         "street": "Deutz-Kalker Str.",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 37,
+      "station_count": 36,
       "e5": 2.162,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -123,7 +123,7 @@
         "place": "OFFENBACH",
         "price": 2.049
       },
-      "diesel": 2.151,
+      "diesel": 2.152,
       "diesel_cheapest": {
         "brand": "Calpam",
         "street": "Westerbachstr",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
-      "e5": 2.129,
+      "station_count": 26,
+      "e5": 2.128,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.039
       },
-      "diesel": 2.141,
+      "diesel": 2.14,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 18,
-      "e5": 2.184,
+      "station_count": 17,
+      "e5": 2.182,
       "e5_cheapest": {
-        "brand": "Supermarkt",
-        "street": "Weintraubenstr.",
-        "place": "Radebeul",
-        "price": 2.169
+        "brand": "Greenline",
+        "street": "Großenhainer Str.",
+        "place": "Dresden",
+        "price": 2.168
       },
-      "e10": 2.125,
+      "e10": 2.122,
       "e10_cheapest": {
-        "brand": "Supermarkt",
-        "street": "Weintraubenstr.",
-        "place": "Radebeul",
-        "price": 2.109
+        "brand": "Greenline",
+        "street": "Großenhainer Str.",
+        "place": "Dresden",
+        "price": 2.108
       },
-      "diesel": 2.161,
+      "diesel": 2.162,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
