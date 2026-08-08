@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-08T15:12:46+00:00",
+  "updated_at": "2026-08-08T15:45:34+00:00",
   "national_average": {
-    "e5": 2.155,
-    "e10": 2.095,
-    "diesel": 2.164
+    "e5": 2.15,
+    "e10": 2.09,
+    "diesel": 2.16
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 105,
-      "e5": 2.086,
+      "e5": 2.083,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Hansastraße",
         "place": "Berlin",
         "price": 2.039
       },
-      "e10": 2.026,
+      "e10": 2.023,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Hansastraße",
         "place": "Berlin",
         "price": 1.979
       },
-      "diesel": 2.113,
+      "diesel": 2.111,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Hansastraße",
@@ -34,7 +34,7 @@
     {
       "name": "Hamburg",
       "station_count": 105,
-      "e5": 2.122,
+      "e5": 2.121,
       "e5_cheapest": {
         "brand": "Freie",
         "street": "Papenstraße",
@@ -59,7 +59,7 @@
     {
       "name": "München",
       "station_count": 108,
-      "e5": 2.018,
+      "e5": 2.017,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.059,
+      "diesel": 2.058,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,26 +84,26 @@
     {
       "name": "Köln",
       "station_count": 79,
-      "e5": 2.224,
+      "e5": 2.215,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Olpener Str.",
         "place": "Köln",
-        "price": 2.129
+        "price": 2.119
       },
-      "e10": 2.166,
+      "e10": 2.157,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Olpener Str.",
         "place": "Köln",
-        "price": 2.069
+        "price": 2.059
       },
-      "diesel": 2.238,
+      "diesel": 2.226,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Olpener Str.",
         "place": "Köln",
-        "price": 2.159
+        "price": 2.149
       }
     },
     {
@@ -159,21 +159,21 @@
     {
       "name": "Düsseldorf",
       "station_count": 65,
-      "e5": 2.217,
+      "e5": 2.212,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "e10": 2.158,
+      "e10": 2.152,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.039
       },
-      "diesel": 2.217,
+      "diesel": 2.211,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -184,21 +184,21 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.146,
+      "e5": 2.134,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.078
       },
-      "e10": 2.087,
+      "e10": 2.075,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.018
       },
-      "diesel": 2.172,
+      "diesel": 2.168,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -209,46 +209,46 @@
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.229,
+      "e5": 2.216,
       "e5_cheapest": {
-        "brand": "Markant",
-        "street": "Bornstr.",
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
         "place": "Dortmund",
-        "price": 2.179
+        "price": 2.159
       },
-      "e10": 2.171,
+      "e10": 2.158,
       "e10_cheapest": {
-        "brand": "Markant",
-        "street": "Bornstr.",
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
         "place": "Dortmund",
-        "price": 2.119
+        "price": 2.099
       },
-      "diesel": 2.247,
+      "diesel": 2.234,
       "diesel_cheapest": {
-        "brand": "Markant",
-        "street": "Bornstr.",
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
         "place": "Dortmund",
-        "price": 2.189
+        "price": 2.149
       }
     },
     {
       "name": "Essen",
       "station_count": 71,
-      "e5": 2.164,
+      "e5": 2.157,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.069
       },
-      "e10": 2.103,
+      "e10": 2.096,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.009
       },
-      "diesel": 2.181,
+      "diesel": 2.173,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
@@ -259,21 +259,21 @@
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.194,
+      "e5": 2.186,
       "e5_cheapest": {
-        "brand": "OIL!",
-        "street": "Kirchhuchtinger Landstr. 112",
+        "brand": "HEM",
+        "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
-        "price": 2.099
+        "price": 2.079
       },
-      "e10": 2.134,
+      "e10": 2.126,
       "e10_cheapest": {
-        "brand": "OIL!",
-        "street": "Kirchhuchtinger Landstr. 112",
+        "brand": "HEM",
+        "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
-        "price": 2.039
+        "price": 2.019
       },
-      "diesel": 2.221,
+      "diesel": 2.215,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
