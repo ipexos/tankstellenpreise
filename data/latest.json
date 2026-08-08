@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-08T10:30:59+00:00",
+  "updated_at": "2026-08-08T11:02:27+00:00",
   "national_average": {
-    "e5": 2.33,
-    "e10": 2.27,
-    "diesel": 2.365
+    "e5": 2.292,
+    "e10": 2.233,
+    "diesel": 2.322
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 105,
-      "e5": 2.327,
+      "e5": 2.313,
       "e5_cheapest": {
-        "brand": "",
-        "street": "Tempelhofer Weg",
+        "brand": "HEM",
+        "street": "Straße vor Schönholz",
         "place": "Berlin",
-        "price": 2.068
+        "price": 2.049
       },
-      "e10": 2.267,
+      "e10": 2.254,
       "e10_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Westhafenstrasse",
+        "brand": "HEM",
+        "street": "Straße vor Schönholz",
         "place": "Berlin",
-        "price": 2.029
+        "price": 1.989
       },
-      "diesel": 2.367,
+      "diesel": 2.349,
       "diesel_cheapest": {
-        "brand": "",
-        "street": "Tempelhofer Weg",
+        "brand": "HEM",
+        "street": "Straße vor Schönholz",
         "place": "Berlin",
-        "price": 2.098
+        "price": 2.069
       }
     },
     {
       "name": "Hamburg",
       "station_count": 105,
-      "e5": 2.344,
+      "e5": 2.304,
       "e5_cheapest": {
-        "brand": "SVG",
-        "street": "Bullerdeich",
+        "brand": "STAR",
+        "street": "Hermannstal",
         "place": "Hamburg",
-        "price": 2.279
+        "price": 2.099
       },
-      "e10": 2.285,
+      "e10": 2.245,
       "e10_cheapest": {
-        "brand": "OIL!",
-        "street": "Rödingsmarkt 14",
+        "brand": "STAR",
+        "street": "Hermannstal",
         "place": "Hamburg",
-        "price": 2.229
+        "price": 2.039
       },
-      "diesel": 2.379,
+      "diesel": 2.327,
       "diesel_cheapest": {
-        "brand": "SVG",
-        "street": "Bullerdeich",
+        "brand": "STAR",
+        "street": "Baumeisterstraße",
         "place": "Hamburg",
-        "price": 2.299
+        "price": 2.099
       }
     },
     {
       "name": "München",
       "station_count": 108,
-      "e5": 2.284,
+      "e5": 2.186,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.998
       },
-      "e10": 2.219,
+      "e10": 2.125,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.938
       },
-      "diesel": 2.32,
+      "diesel": 2.212,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,21 +84,21 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.339,
+      "e5": 2.322,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.208
       },
-      "e10": 2.279,
+      "e10": 2.262,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.149
       },
-      "diesel": 2.374,
+      "diesel": 2.351,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -109,46 +109,46 @@
     {
       "name": "Frankfurt",
       "station_count": 66,
-      "e5": 2.351,
+      "e5": 2.319,
       "e5_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Dortelweiler Strasse",
-        "place": "Frankfurt",
-        "price": 2.149
+        "brand": "bft",
+        "street": "Rumpenheimer Str.",
+        "place": "Offenbach",
+        "price": 2.119
       },
-      "e10": 2.292,
+      "e10": 2.26,
       "e10_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Dortelweiler Strasse",
-        "place": "Frankfurt",
-        "price": 2.089
+        "brand": "bft",
+        "street": "Rumpenheimer Str.",
+        "place": "Offenbach",
+        "price": 2.059
       },
-      "diesel": 2.387,
+      "diesel": 2.356,
       "diesel_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Dortelweiler Strasse",
-        "place": "Frankfurt",
-        "price": 2.139
+        "brand": "bft",
+        "street": "Rumpenheimer Str.",
+        "place": "Offenbach",
+        "price": 2.119
       }
     },
     {
       "name": "Stuttgart",
-      "station_count": 71,
-      "e5": 2.306,
+      "station_count": 70,
+      "e5": 2.237,
       "e5_cheapest": {
         "brand": "RAN",
-        "street": "Hedelfinger Str.",
+        "street": "Engelbergstr.",
         "place": "Stuttgart",
-        "price": 2.079
+        "price": 2.069
       },
-      "e10": 2.246,
+      "e10": 2.177,
       "e10_cheapest": {
         "brand": "RAN",
-        "street": "Hedelfinger Str.",
+        "street": "Engelbergstr.",
         "place": "Stuttgart",
-        "price": 2.019
+        "price": 2.009
       },
-      "diesel": 2.333,
+      "diesel": 2.259,
       "diesel_cheapest": {
         "brand": "AGIP ENI",
         "street": "Hedelfinger Str.",
@@ -159,21 +159,21 @@
     {
       "name": "Düsseldorf",
       "station_count": 65,
-      "e5": 2.339,
+      "e5": 2.327,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Broichhofstrasse",
         "place": "Ratingen",
         "price": 2.209
       },
-      "e10": 2.279,
+      "e10": 2.267,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Broichhofstrasse",
         "place": "Ratingen",
         "price": 2.149
       },
-      "diesel": 2.372,
+      "diesel": 2.355,
       "diesel_cheapest": {
         "brand": "ARAL",
         "street": "Broichhofstrasse",
@@ -184,49 +184,49 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.323,
+      "e5": 2.28,
       "e5_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Paunsdorfer Str.",
+        "brand": "HEM",
+        "street": "Zweinaundorfer Str.",
         "place": "Leipzig",
-        "price": 2.099
+        "price": 2.089
       },
-      "e10": 2.264,
+      "e10": 2.221,
       "e10_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Paunsdorfer Str.",
+        "brand": "HEM",
+        "street": "Zweinaundorfer Str.",
         "place": "Leipzig",
-        "price": 2.039
+        "price": 2.029
       },
-      "diesel": 2.36,
+      "diesel": 2.319,
       "diesel_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Paunsdorfer Str.",
+        "brand": "Greenline",
+        "street": "Mockauer Str.",
         "place": "Leipzig",
-        "price": 2.129
+        "price": 2.118
       }
     },
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.338,
+      "e5": 2.323,
       "e5_cheapest": {
-        "brand": "BFT Tankstelle",
-        "street": "Berghoferstr.",
+        "brand": "Bavaria Petrol",
+        "street": "Hörder Phoenixseeallee",
         "place": "Dortmund",
         "price": 2.239
       },
-      "e10": 2.279,
+      "e10": 2.263,
       "e10_cheapest": {
-        "brand": "BFT Tankstelle",
-        "street": "Berghoferstr.",
+        "brand": "Bavaria Petrol",
+        "street": "Hörder Phoenixseeallee",
         "place": "Dortmund",
         "price": 2.179
       },
-      "diesel": 2.371,
+      "diesel": 2.353,
       "diesel_cheapest": {
-        "brand": "BFT Tankstelle",
-        "street": "Berghoferstr.",
+        "brand": "Bavaria Petrol",
+        "street": "Hörder Phoenixseeallee",
         "place": "Dortmund",
         "price": 2.249
       }
@@ -234,76 +234,76 @@
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.333,
+      "e5": 2.316,
       "e5_cheapest": {
-        "brand": "Frei",
-        "street": "Rotthauser Str.",
-        "place": "Gelsenkirchen",
+        "brand": "JET",
+        "street": "SCHWARZMUEHLENSTR.",
+        "place": "GELSENKIRCHEN",
         "price": 2.069
       },
-      "e10": 2.274,
+      "e10": 2.257,
       "e10_cheapest": {
-        "brand": "Frei",
-        "street": "Rotthauser Str.",
-        "place": "Gelsenkirchen",
+        "brand": "JET",
+        "street": "SCHWARZMUEHLENSTR.",
+        "place": "GELSENKIRCHEN",
         "price": 2.009
       },
-      "diesel": 2.368,
+      "diesel": 2.348,
       "diesel_cheapest": {
-        "brand": "Frei",
-        "street": "Rotthauser Str.",
-        "place": "Gelsenkirchen",
+        "brand": "JET",
+        "street": "SCHWARZMUEHLENSTR.",
+        "place": "GELSENKIRCHEN",
         "price": 2.099
       }
     },
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.334,
+      "e5": 2.316,
       "e5_cheapest": {
         "brand": "BFT",
         "street": "Vahrer Straße",
         "place": "Bremen",
         "price": 2.239
       },
-      "e10": 2.275,
+      "e10": 2.257,
       "e10_cheapest": {
-        "brand": "BFT",
-        "street": "Vahrer Straße",
-        "place": "Bremen",
+        "brand": "JET",
+        "street": "VAHRER STR.",
+        "place": "BREMEN",
         "price": 2.219
       },
-      "diesel": 2.374,
+      "diesel": 2.351,
       "diesel_cheapest": {
-        "brand": "BFT",
-        "street": "Vahrer Straße",
-        "place": "Bremen",
+        "brand": "JET",
+        "street": "VAHRER STR.",
+        "place": "BREMEN",
         "price": 2.249
       }
     },
     {
       "name": "Dresden",
       "station_count": 52,
-      "e5": 2.338,
+      "e5": 2.265,
       "e5_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Enderstraße",
+        "brand": "Greenline",
+        "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.169
+        "price": 2.148
       },
-      "e10": 2.281,
+      "e10": 2.204,
       "e10_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Enderstraße",
+        "brand": "STAR",
+        "street": "Großenhainer Straße",
         "place": "Dresden",
-        "price": 2.109
+        "price": 2.089
       },
-      "diesel": 2.375,
+      "diesel": 2.283,
       "diesel_cheapest": {
-        "brand": "AGIP ENI",
-        "street": "Enderstraße",
-        "place": "Dresden",
-        "price": 2.139
+        "brand": "Supermarkt-Tankstelle",
+        "street": "BODERITZER STR.",
+        "place": "BANNEWITZ",
+        "price": 2.119
       }
     }
   ]
