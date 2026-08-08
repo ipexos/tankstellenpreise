@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:46:28+00:00",
+  "updated_at": "2026-08-08T23:11:47+00:00",
   "national_average": {
     "e5": 2.124,
     "e10": 2.066,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 74,
       "e5": 2.121,
       "e5_cheapest": {
         "brand": "JET",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.104,
+      "station_count": 25,
+      "e5": 2.105,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
