@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-08T09:19:44+00:00",
+  "updated_at": "2026-08-08T09:57:45+00:00",
   "national_average": {
-    "e5": 2.104,
+    "e5": 2.103,
     "e10": 2.044,
     "diesel": 2.114
   },
@@ -23,7 +23,7 @@
         "place": "BERLIN",
         "price": 1.979
       },
-      "diesel": 2.086,
+      "diesel": 2.085,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -34,21 +34,21 @@
     {
       "name": "Hamburg",
       "station_count": 105,
-      "e5": 2.124,
+      "e5": 2.123,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
         "place": "HAMBURG",
         "price": 2.099
       },
-      "e10": 2.065,
+      "e10": 2.064,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
         "place": "HAMBURG",
         "price": 2.039
       },
-      "diesel": 2.121,
+      "diesel": 2.12,
       "diesel_cheapest": {
         "brand": "Freie",
         "street": "Papenstraße",
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 108,
-      "e5": 2.025,
+      "e5": 2.024,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
         "place": "München",
         "price": 1.979
       },
-      "e10": 1.965,
+      "e10": 1.964,
       "e10_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
@@ -184,14 +184,14 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.101,
+      "e5": 2.097,
       "e5_cheapest": {
-        "brand": "Access",
-        "street": "Luetzner Str.",
-        "place": "Leipzig",
-        "price": 2.079
+        "brand": "TS am Marktkauf",
+        "street": "Städtelner Str.",
+        "place": "Markkleeberg",
+        "price": 2.069
       },
-      "e10": 2.041,
+      "e10": 2.038,
       "e10_cheapest": {
         "brand": "Access",
         "street": "Luetzner Str.",
