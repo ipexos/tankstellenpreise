@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T20:25:04+00:00",
+  "updated_at": "2026-08-08T20:55:17+00:00",
   "national_average": {
     "e5": 2.122,
     "e10": 2.063,
@@ -8,8 +8,8 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 76,
-      "e5": 2.065,
+      "station_count": 75,
+      "e5": 2.066,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 73,
+      "station_count": 72,
       "e5": 2.018,
       "e5_cheapest": {
         "brand": "ARAL",
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.056,
+      "diesel": 2.055,
       "diesel_cheapest": {
         "brand": "ALLGUTH",
         "street": "Dieselstraße",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 37,
-      "e5": 2.101,
+      "station_count": 36,
+      "e5": 2.102,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.018
       },
-      "diesel": 2.117,
+      "diesel": 2.118,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 34,
-      "e5": 2.112,
+      "station_count": 33,
+      "e5": 2.111,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.069
       },
-      "e10": 2.054,
+      "e10": 2.052,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.009
       },
-      "diesel": 2.134,
+      "diesel": 2.132,
       "diesel_cheapest": {
         "brand": "ORLEN",
         "street": "Bochumer Landstraße",
