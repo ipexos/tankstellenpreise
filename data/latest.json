@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-08T00:34:55+00:00",
+  "updated_at": "2026-08-08T02:31:22+00:00",
   "national_average": {
     "e5": 2.129,
     "e10": 2.071,
-    "diesel": 2.137
+    "diesel": 2.136
   },
   "cities": [
     {
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.129,
+      "station_count": 26,
+      "e5": 2.128,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.099
       },
-      "e10": 2.07,
+      "e10": 2.069,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.039
       },
-      "diesel": 2.142,
+      "diesel": 2.141,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
-      "e5": 2.1,
+      "station_count": 26,
+      "e5": 2.099,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.059
       },
-      "e10": 2.042,
+      "e10": 2.041,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 1.999
       },
-      "diesel": 2.125,
+      "diesel": 2.124,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
