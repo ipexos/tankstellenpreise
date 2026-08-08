@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-07T23:49:49+00:00",
+  "updated_at": "2026-08-08T00:34:55+00:00",
   "national_average": {
     "e5": 2.129,
     "e10": 2.071,
-    "diesel": 2.136
+    "diesel": 2.137
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 65,
-      "e5": 2.095,
+      "station_count": 66,
+      "e5": 2.094,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.049
       },
-      "e10": 2.036,
+      "e10": 2.035,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 1.989
       },
-      "diesel": 2.137,
+      "diesel": 2.136,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.084,
+      "station_count": 54,
+      "e5": 2.085,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.989
       },
-      "e10": 2.025,
+      "e10": 2.027,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.929
       },
-      "diesel": 2.082,
+      "diesel": 2.083,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
-      "e5": 2.099,
+      "station_count": 25,
+      "e5": 2.1,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.059
       },
-      "e10": 2.041,
+      "e10": 2.042,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 1.999
       },
-      "diesel": 2.124,
+      "diesel": 2.125,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
