@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-08T11:02:27+00:00",
+  "updated_at": "2026-08-08T11:36:35+00:00",
   "national_average": {
-    "e5": 2.292,
-    "e10": 2.233,
-    "diesel": 2.322
+    "e5": 2.262,
+    "e10": 2.202,
+    "diesel": 2.289
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 105,
-      "e5": 2.313,
+      "e5": 2.278,
       "e5_cheapest": {
-        "brand": "HEM",
-        "street": "Straße vor Schönholz",
+        "brand": "Sprint",
+        "street": "Residenzstr.",
         "place": "Berlin",
         "price": 2.049
       },
-      "e10": 2.254,
+      "e10": 2.218,
       "e10_cheapest": {
-        "brand": "HEM",
-        "street": "Straße vor Schönholz",
+        "brand": "Sprint",
+        "street": "Residenzstr.",
         "place": "Berlin",
         "price": 1.989
       },
-      "diesel": 2.349,
+      "diesel": 2.312,
       "diesel_cheapest": {
         "brand": "HEM",
         "street": "Straße vor Schönholz",
@@ -34,21 +34,21 @@
     {
       "name": "Hamburg",
       "station_count": 105,
-      "e5": 2.304,
+      "e5": 2.25,
       "e5_cheapest": {
-        "brand": "STAR",
-        "street": "Hermannstal",
-        "place": "Hamburg",
+        "brand": "JET",
+        "street": "HORNER LANDSTR.",
+        "place": "HAMBURG",
         "price": 2.099
       },
-      "e10": 2.245,
+      "e10": 2.189,
       "e10_cheapest": {
-        "brand": "STAR",
-        "street": "Hermannstal",
-        "place": "Hamburg",
+        "brand": "JET",
+        "street": "HORNER LANDSTR.",
+        "place": "HAMBURG",
         "price": 2.039
       },
-      "diesel": 2.327,
+      "diesel": 2.269,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Baumeisterstraße",
@@ -59,21 +59,21 @@
     {
       "name": "München",
       "station_count": 108,
-      "e5": 2.186,
+      "e5": 2.112,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.998
       },
-      "e10": 2.125,
+      "e10": 2.056,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.938
       },
-      "diesel": 2.212,
+      "diesel": 2.14,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,21 +84,21 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.322,
+      "e5": 2.317,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.208
       },
-      "e10": 2.262,
+      "e10": 2.257,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.149
       },
-      "diesel": 2.351,
+      "diesel": 2.341,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -109,96 +109,96 @@
     {
       "name": "Frankfurt",
       "station_count": 66,
-      "e5": 2.319,
+      "e5": 2.273,
       "e5_cheapest": {
-        "brand": "bft",
-        "street": "Rumpenheimer Str.",
+        "brand": "OIL!",
+        "street": "Sprendlinger Landstr. 173",
         "place": "Offenbach",
-        "price": 2.119
+        "price": 2.109
       },
-      "e10": 2.26,
+      "e10": 2.214,
       "e10_cheapest": {
-        "brand": "bft",
-        "street": "Rumpenheimer Str.",
+        "brand": "OIL!",
+        "street": "Sprendlinger Landstr. 173",
         "place": "Offenbach",
-        "price": 2.059
+        "price": 2.049
       },
-      "diesel": 2.356,
+      "diesel": 2.321,
       "diesel_cheapest": {
-        "brand": "bft",
-        "street": "Rumpenheimer Str.",
+        "brand": "Hessol",
+        "street": "Mühlheimer Straße",
         "place": "Offenbach",
-        "price": 2.119
+        "price": 2.109
       }
     },
     {
       "name": "Stuttgart",
       "station_count": 70,
-      "e5": 2.237,
+      "e5": 2.202,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.069
       },
-      "e10": 2.177,
+      "e10": 2.142,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.009
       },
-      "diesel": 2.259,
+      "diesel": 2.213,
       "diesel_cheapest": {
-        "brand": "AGIP ENI",
+        "brand": "RAN",
         "street": "Hedelfinger Str.",
         "place": "Stuttgart",
-        "price": 2.059
+        "price": 2.049
       }
     },
     {
       "name": "Düsseldorf",
       "station_count": 65,
-      "e5": 2.327,
+      "e5": 2.311,
       "e5_cheapest": {
-        "brand": "ARAL",
-        "street": "Broichhofstrasse",
-        "place": "Ratingen",
-        "price": 2.209
+        "brand": "Shell",
+        "street": "Niederrheinstr.",
+        "place": "Duesseldorf",
+        "price": 2.119
       },
-      "e10": 2.267,
+      "e10": 2.251,
       "e10_cheapest": {
-        "brand": "ARAL",
-        "street": "Broichhofstrasse",
-        "place": "Ratingen",
-        "price": 2.149
+        "brand": "Shell",
+        "street": "Niederrheinstr.",
+        "place": "Duesseldorf",
+        "price": 2.059
       },
-      "diesel": 2.355,
+      "diesel": 2.333,
       "diesel_cheapest": {
-        "brand": "ARAL",
-        "street": "Broichhofstrasse",
-        "place": "Ratingen",
-        "price": 2.179
+        "brand": "Shell",
+        "street": "Niederrheinstr.",
+        "place": "Duesseldorf",
+        "price": 2.149
       }
     },
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.28,
+      "e5": 2.258,
       "e5_cheapest": {
-        "brand": "HEM",
-        "street": "Zweinaundorfer Str.",
+        "brand": "Globus SB Warenhaus",
+        "street": "An der Passage",
         "place": "Leipzig",
-        "price": 2.089
+        "price": 2.088
       },
-      "e10": 2.221,
+      "e10": 2.199,
       "e10_cheapest": {
-        "brand": "HEM",
-        "street": "Zweinaundorfer Str.",
+        "brand": "Globus SB Warenhaus",
+        "street": "An der Passage",
         "place": "Leipzig",
-        "price": 2.029
+        "price": 2.028
       },
-      "diesel": 2.319,
+      "diesel": 2.293,
       "diesel_cheapest": {
         "brand": "Greenline",
         "street": "Mockauer Str.",
@@ -209,46 +209,46 @@
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.323,
+      "e5": 2.315,
       "e5_cheapest": {
-        "brand": "Bavaria Petrol",
-        "street": "Hörder Phoenixseeallee",
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
+        "place": "Dortmund",
+        "price": 2.229
+      },
+      "e10": 2.255,
+      "e10_cheapest": {
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
+        "place": "Dortmund",
+        "price": 2.169
+      },
+      "diesel": 2.344,
+      "diesel_cheapest": {
+        "brand": "Markant (Tankautomat)",
+        "street": "Benninghofer Str.",
         "place": "Dortmund",
         "price": 2.239
-      },
-      "e10": 2.263,
-      "e10_cheapest": {
-        "brand": "Bavaria Petrol",
-        "street": "Hörder Phoenixseeallee",
-        "place": "Dortmund",
-        "price": 2.179
-      },
-      "diesel": 2.353,
-      "diesel_cheapest": {
-        "brand": "Bavaria Petrol",
-        "street": "Hörder Phoenixseeallee",
-        "place": "Dortmund",
-        "price": 2.249
       }
     },
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.316,
+      "e5": 2.291,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.069
       },
-      "e10": 2.257,
+      "e10": 2.232,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
         "place": "GELSENKIRCHEN",
         "price": 2.009
       },
-      "diesel": 2.348,
+      "diesel": 2.321,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "SCHWARZMUEHLENSTR.",
@@ -259,46 +259,46 @@
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.316,
+      "e5": 2.308,
       "e5_cheapest": {
         "brand": "BFT",
         "street": "Vahrer Straße",
         "place": "Bremen",
         "price": 2.239
       },
-      "e10": 2.257,
+      "e10": 2.249,
       "e10_cheapest": {
-        "brand": "JET",
-        "street": "VAHRER STR.",
-        "place": "BREMEN",
-        "price": 2.219
+        "brand": "BMÖ Xpress",
+        "street": "Stresemannstraße",
+        "place": "Bremen",
+        "price": 2.209
       },
-      "diesel": 2.351,
+      "diesel": 2.34,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "VAHRER STR.",
-        "place": "BREMEN",
-        "price": 2.249
+        "brand": "BMÖ Xpress",
+        "street": "Stresemannstraße",
+        "place": "Bremen",
+        "price": 2.239
       }
     },
     {
       "name": "Dresden",
       "station_count": 52,
-      "e5": 2.265,
+      "e5": 2.226,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
         "price": 2.148
       },
-      "e10": 2.204,
+      "e10": 2.164,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Großenhainer Straße",
         "place": "Dresden",
         "price": 2.089
       },
-      "diesel": 2.283,
+      "diesel": 2.236,
       "diesel_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "BODERITZER STR.",
