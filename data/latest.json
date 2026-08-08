@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:12:26+00:00",
+  "updated_at": "2026-08-08T22:46:28+00:00",
   "national_average": {
     "e5": 2.124,
     "e10": 2.066,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 63,
+      "station_count": 66,
       "e5": 2.066,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,14 +16,14 @@
         "place": "Berlin",
         "price": 2.039
       },
-      "e10": 2.007,
+      "e10": 2.006,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 1.979
       },
-      "diesel": 2.095,
+      "diesel": 2.094,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.121,
       "e5_cheapest": {
         "brand": "JET",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.104,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -275,15 +275,15 @@
       },
       "diesel": 2.14,
       "diesel_cheapest": {
-        "brand": "BMÖ Xpress",
-        "street": "Stresemannstraße",
-        "place": "Bremen",
-        "price": 2.089
+        "brand": "RATIO",
+        "street": "Henleinstr.",
+        "place": "Stuhr",
+        "price": 2.079
       }
     },
     {
       "name": "Dresden",
-      "station_count": 19,
+      "station_count": 20,
       "e5": 2.152,
       "e5_cheapest": {
         "brand": "Supermarkt",
