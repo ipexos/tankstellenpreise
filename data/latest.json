@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:21:27+00:00",
+  "updated_at": "2026-08-08T21:50:52+00:00",
   "national_average": {
     "e5": 2.123,
     "e10": 2.064,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 64,
       "e5": 2.066,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -41,7 +41,7 @@
         "place": "HAMBURG",
         "price": 2.089
       },
-      "e10": 2.062,
+      "e10": 2.061,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 66,
+      "station_count": 65,
       "e5": 2.019,
       "e5_cheapest": {
         "brand": "ARAL",
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.055,
+      "diesel": 2.056,
       "diesel_cheapest": {
         "brand": "ALLGUTH",
         "street": "Dieselstraße",
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 45,
-      "e5": 2.171,
+      "station_count": 44,
+      "e5": 2.169,
       "e5_cheapest": {
         "brand": "JET",
         "street": "BERG. GLADBACHER STR.",
         "place": "KOELN",
         "price": 2.109
       },
-      "e10": 2.116,
+      "e10": 2.114,
       "e10_cheapest": {
         "brand": "JET",
         "street": "BERG. GLADBACHER STR.",
         "place": "KOELN",
         "price": 2.049
       },
-      "diesel": 2.167,
+      "diesel": 2.163,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 38,
+      "station_count": 37,
       "e5": 2.156,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -116,14 +116,14 @@
         "place": "Offenbach",
         "price": 2.089
       },
-      "e10": 2.097,
+      "e10": 2.098,
       "e10_cheapest": {
         "brand": "JET",
         "street": "ODENWALDRING",
         "place": "OFFENBACH",
         "price": 2.049
       },
-      "diesel": 2.143,
+      "diesel": 2.144,
       "diesel_cheapest": {
         "brand": "Calpam",
         "street": "Westerbachstr",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
-      "e5": 2.103,
+      "station_count": 26,
+      "e5": 2.104,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.078
       },
-      "e10": 2.043,
+      "e10": 2.044,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.018
       },
-      "diesel": 2.116,
+      "diesel": 2.115,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -259,14 +259,14 @@
     {
       "name": "Bremen",
       "station_count": 25,
-      "e5": 2.111,
+      "e5": 2.11,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.029
       },
-      "e10": 2.052,
+      "e10": 2.051,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
@@ -283,7 +283,7 @@
     },
     {
       "name": "Dresden",
-      "station_count": 20,
+      "station_count": 19,
       "e5": 2.152,
       "e5_cheapest": {
         "brand": "Supermarkt",
