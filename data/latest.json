@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T20:04:57+00:00",
+  "updated_at": "2026-08-09T20:47:44+00:00",
   "national_average": {
     "e5": 2.107,
     "e10": 2.048,
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 72,
-      "e5": 2.074,
+      "station_count": 70,
+      "e5": 2.075,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.979
       },
-      "e10": 2.014,
+      "e10": 2.015,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 33,
+      "station_count": 32,
       "e5": 2.084,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,8 +233,8 @@
     },
     {
       "name": "Essen",
-      "station_count": 33,
-      "e5": 2.1,
+      "station_count": 32,
+      "e5": 2.099,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
@@ -283,7 +283,7 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.116,
       "e5_cheapest": {
         "brand": "Supermarkt",
@@ -298,7 +298,7 @@
         "place": "Radebeul",
         "price": 2.029
       },
-      "diesel": 2.112,
+      "diesel": 2.113,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
