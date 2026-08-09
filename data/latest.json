@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-09T17:22:33+00:00",
+  "updated_at": "2026-08-09T17:53:18+00:00",
   "national_average": {
-    "e5": 2.11,
-    "e10": 2.051,
-    "diesel": 2.118
+    "e5": 2.108,
+    "e10": 2.049,
+    "diesel": 2.117
   },
   "cities": [
     {
@@ -59,21 +59,21 @@
     {
       "name": "München",
       "station_count": 106,
-      "e5": 2.094,
+      "e5": 2.089,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
         "place": "München",
         "price": 1.979
       },
-      "e10": 2.033,
+      "e10": 2.029,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.09,
+      "diesel": 2.085,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,21 +84,21 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.146,
+      "e5": 2.142,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Olpener Str.",
         "place": "Köln",
         "price": 2.099
       },
-      "e10": 2.088,
+      "e10": 2.084,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Olpener Str.",
         "place": "Köln",
         "price": 2.039
       },
-      "diesel": 2.157,
+      "diesel": 2.152,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -159,25 +159,25 @@
     {
       "name": "Düsseldorf",
       "station_count": 60,
-      "e5": 2.12,
+      "e5": 2.115,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.079
       },
-      "e10": 2.061,
+      "e10": 2.056,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.019
       },
-      "diesel": 2.139,
+      "diesel": 2.137,
       "diesel_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Oerschbachstr.",
-        "place": "Düsseldorf",
+        "brand": "SB",
+        "street": "St.Franziskusstr.",
+        "place": "Duesseldorf",
         "price": 2.109
       }
     },
@@ -209,21 +209,21 @@
     {
       "name": "Dortmund",
       "station_count": 64,
-      "e5": 2.096,
+      "e5": 2.095,
       "e5_cheapest": {
         "brand": "Markant",
         "street": "Bornstr.",
         "place": "Dortmund",
         "price": 2.069
       },
-      "e10": 2.037,
+      "e10": 2.036,
       "e10_cheapest": {
         "brand": "Markant",
         "street": "Bornstr.",
         "place": "Dortmund",
         "price": 2.009
       },
-      "diesel": 2.127,
+      "diesel": 2.126,
       "diesel_cheapest": {
         "brand": "Tankstation Oespel 6-22h",
         "street": "Julius-Vogel-Str.",
@@ -284,21 +284,21 @@
     {
       "name": "Dresden",
       "station_count": 50,
-      "e5": 2.13,
+      "e5": 2.123,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.099
       },
-      "e10": 2.07,
+      "e10": 2.062,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.039
       },
-      "diesel": 2.123,
+      "diesel": 2.12,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
