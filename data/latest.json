@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T23:15:16+00:00",
+  "updated_at": "2026-08-09T23:48:17+00:00",
   "national_average": {
     "e5": 2.109,
     "e10": 2.051,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 66,
       "e5": 2.062,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,7 +16,7 @@
         "place": "Berlin",
         "price": 2.029
       },
-      "e10": 2.002,
+      "e10": 2.003,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.086,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.008
       },
-      "diesel": 2.103,
+      "diesel": 2.104,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
