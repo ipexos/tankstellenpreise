@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-08T23:44:05+00:00",
+  "updated_at": "2026-08-09T00:03:41+00:00",
   "national_average": {
-    "e5": 2.123,
+    "e5": 2.124,
     "e10": 2.065,
     "diesel": 2.132
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 65,
+      "station_count": 66,
       "e5": 2.066,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 1.979
       },
-      "diesel": 2.095,
+      "diesel": 2.094,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
-      "e5": 2.168,
+      "station_count": 29,
+      "e5": 2.17,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "e10": 2.109,
+      "e10": 2.11,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.039
       },
-      "diesel": 2.18,
+      "diesel": 2.181,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.096,
+      "station_count": 20,
+      "e5": 2.097,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.078
       },
-      "e10": 2.037,
+      "e10": 2.038,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.018
       },
-      "diesel": 2.116,
+      "diesel": 2.118,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.11,
+      "station_count": 23,
+      "e5": 2.115,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.029
       },
-      "e10": 2.051,
+      "e10": 2.056,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 1.969
       },
-      "diesel": 2.14,
+      "diesel": 2.143,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
