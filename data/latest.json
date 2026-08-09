@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-09T15:47:14+00:00",
+  "updated_at": "2026-08-09T16:14:33+00:00",
   "national_average": {
-    "e5": 2.12,
-    "e10": 2.06,
-    "diesel": 2.127
+    "e5": 2.116,
+    "e10": 2.056,
+    "diesel": 2.123
   },
   "cities": [
     {
@@ -23,57 +23,57 @@
         "place": "Berlin",
         "price": 1.979
       },
-      "diesel": 2.09,
+      "diesel": 2.088,
       "diesel_cheapest": {
-        "brand": "ELAN",
-        "street": "Storkower Str.",
+        "brand": "Sprint",
+        "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.059
       }
     },
     {
       "name": "Hamburg",
-      "station_count": 104,
+      "station_count": 102,
       "e5": 2.109,
       "e5_cheapest": {
-        "brand": "OIL!",
-        "street": "Rödingsmarkt 14",
+        "brand": "Hoyer",
+        "street": "Georg-Wilhelm-Str.",
         "place": "Hamburg",
-        "price": 2.089
+        "price": 2.079
       },
       "e10": 2.049,
       "e10_cheapest": {
-        "brand": "OIL!",
-        "street": "Rödingsmarkt 14",
+        "brand": "Hoyer",
+        "street": "Georg-Wilhelm-Str.",
         "place": "Hamburg",
-        "price": 2.029
+        "price": 2.019
       },
-      "diesel": 2.115,
+      "diesel": 2.114,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "SCHLENZIGSTR.",
-        "place": "HAMBURG",
-        "price": 2.089
+        "brand": "Hoyer",
+        "street": "Georg-Wilhelm-Str.",
+        "place": "Hamburg",
+        "price": 2.069
       }
     },
     {
       "name": "München",
       "station_count": 106,
-      "e5": 2.124,
+      "e5": 2.112,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
         "place": "München",
         "price": 1.979
       },
-      "e10": 2.064,
+      "e10": 2.051,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.115,
+      "diesel": 2.106,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,21 +84,21 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.177,
+      "e5": 2.163,
       "e5_cheapest": {
-        "brand": "STAR",
-        "street": "Berrenrather Straße",
-        "place": "Köln",
-        "price": 2.109
+        "brand": "Globus SB Warenhaus",
+        "street": "Max-Planck Straße",
+        "place": "Köln-Marsdorf",
+        "price": 2.108
       },
-      "e10": 2.118,
+      "e10": 2.105,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Berrenrather Straße",
         "place": "Köln",
         "price": 2.049
       },
-      "diesel": 2.189,
+      "diesel": 2.175,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 60,
+      "station_count": 59,
       "e5": 2.152,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -139,16 +139,16 @@
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
-        "price": 2.099
+        "price": 2.089
       },
       "e10": 2.099,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
-        "price": 2.039
+        "price": 2.029
       },
-      "diesel": 2.125,
+      "diesel": 2.122,
       "diesel_cheapest": {
         "brand": "AVIA XPress",
         "street": "Langwiesenweg",
@@ -159,17 +159,17 @@
     {
       "name": "Düsseldorf",
       "station_count": 60,
-      "e5": 2.128,
+      "e5": 2.125,
       "e5_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Oerschbachstr.",
+        "brand": "ARAL",
+        "street": "Südring",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "e10": 2.069,
+      "e10": 2.067,
       "e10_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Oerschbachstr.",
+        "brand": "ARAL",
+        "street": "Südring",
         "place": "Düsseldorf",
         "price": 2.039
       },
@@ -184,7 +184,7 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.086,
+      "e5": 2.085,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.018
       },
-      "diesel": 2.105,
+      "diesel": 2.104,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
@@ -209,21 +209,21 @@
     {
       "name": "Dortmund",
       "station_count": 67,
-      "e5": 2.105,
+      "e5": 2.099,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Lindenhorster Str.",
         "place": "Dortmund",
         "price": 2.069
       },
-      "e10": 2.046,
+      "e10": 2.04,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Lindenhorster Str.",
         "place": "Dortmund",
         "price": 2.009
       },
-      "diesel": 2.139,
+      "diesel": 2.132,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Benninghofer Str.",
@@ -241,7 +241,7 @@
         "place": "Gelsenkirchen",
         "price": 2.069
       },
-      "e10": 2.04,
+      "e10": 2.039,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 51,
-      "e5": 2.164,
+      "station_count": 50,
+      "e5": 2.151,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.099
       },
-      "e10": 2.104,
+      "e10": 2.091,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.039
       },
-      "diesel": 2.146,
+      "diesel": 2.133,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
