@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:24:12+00:00",
+  "updated_at": "2026-08-10T23:57:14+00:00",
   "national_average": {
     "e5": 2.151,
     "e10": 2.092,
@@ -8,15 +8,15 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.11,
+      "station_count": 66,
+      "e5": 2.111,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
         "place": "BERLIN",
         "price": 2.049
       },
-      "e10": 2.051,
+      "e10": 2.052,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.12,
+      "station_count": 24,
+      "e5": 2.121,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
