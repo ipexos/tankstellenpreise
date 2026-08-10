@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T23:48:17+00:00",
+  "updated_at": "2026-08-10T00:38:10+00:00",
   "national_average": {
     "e5": 2.109,
     "e10": 2.051,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
+      "station_count": 67,
       "e5": 2.062,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,7 +16,7 @@
         "place": "Berlin",
         "price": 2.029
       },
-      "e10": 2.003,
+      "e10": 2.002,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 55,
-      "e5": 2.079,
+      "station_count": 54,
+      "e5": 2.08,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.979
       },
-      "e10": 2.02,
+      "e10": 2.022,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.919
       },
-      "diesel": 2.079,
+      "diesel": 2.08,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.1,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -241,14 +241,14 @@
         "place": "Gelsenkirchen",
         "price": 2.069
       },
-      "e10": 2.042,
+      "e10": 2.043,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.009
       },
-      "diesel": 2.121,
+      "diesel": 2.122,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
