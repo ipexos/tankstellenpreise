@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:57:14+00:00",
+  "updated_at": "2026-08-11T01:23:33+00:00",
   "national_average": {
     "e5": 2.151,
     "e10": 2.092,
@@ -8,15 +8,15 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
-      "e5": 2.111,
+      "station_count": 65,
+      "e5": 2.11,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
         "place": "BERLIN",
         "price": 2.049
       },
-      "e10": 2.052,
+      "e10": 2.051,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.087,
+      "station_count": 53,
+      "e5": 2.089,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 1.998
       },
-      "e10": 2.028,
+      "e10": 2.03,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.938
       },
-      "diesel": 2.068,
+      "diesel": 2.069,
       "diesel_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.121,
+      "station_count": 26,
+      "e5": 2.12,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.098
       },
-      "e10": 2.061,
+      "e10": 2.06,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
