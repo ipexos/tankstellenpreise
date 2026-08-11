@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-11T08:39:42+00:00",
+  "updated_at": "2026-08-11T09:39:50+00:00",
   "national_average": {
-    "e5": 2.109,
-    "e10": 2.05,
-    "diesel": 2.118
+    "e5": 2.108,
+    "e10": 2.048,
+    "diesel": 2.117
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 106,
-      "e5": 2.065,
+      "e5": 2.064,
       "e5_cheapest": {
         "brand": "JET",
         "street": "HERZBERGSTR.",
         "place": "BERLIN",
         "price": 2.039
       },
-      "e10": 2.005,
+      "e10": 2.004,
       "e10_cheapest": {
         "brand": "JET",
         "street": "HERZBERGSTR.",
         "place": "BERLIN",
         "price": 1.979
       },
-      "diesel": 2.102,
+      "diesel": 2.101,
       "diesel_cheapest": {
         "brand": "bft-Tankstelle",
         "street": "Kapweg",
@@ -34,46 +34,46 @@
     {
       "name": "Hamburg",
       "station_count": 105,
-      "e5": 2.108,
+      "e5": 2.107,
       "e5_cheapest": {
-        "brand": "ESSO",
-        "street": "WINTERHUDER WEG 35",
-        "place": "HAMBURG",
-        "price": 2.079
-      },
-      "e10": 2.049,
-      "e10_cheapest": {
-        "brand": "ESSO",
-        "street": "WINTERHUDER WEG 35",
-        "place": "HAMBURG",
-        "price": 2.019
-      },
-      "diesel": 2.11,
-      "diesel_cheapest": {
-        "brand": "JET",
-        "street": "WANDSBEKER CHAUSSEE",
-        "place": "HAMBURG",
+        "brand": "CleanCar",
+        "street": "Steilshooper Allee",
+        "place": "Hamburg",
         "price": 2.069
+      },
+      "e10": 2.048,
+      "e10_cheapest": {
+        "brand": "CleanCar",
+        "street": "Steilshooper Allee",
+        "place": "Hamburg",
+        "price": 2.009
+      },
+      "diesel": 2.109,
+      "diesel_cheapest": {
+        "brand": "CleanCar",
+        "street": "Steilshooper Allee",
+        "place": "Hamburg",
+        "price": 2.059
       }
     },
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.031,
+      "e5": 2.03,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
         "place": "München",
         "price": 1.998
       },
-      "e10": 1.971,
+      "e10": 1.97,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 1.938
       },
-      "diesel": 2.059,
+      "diesel": 2.058,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -109,37 +109,37 @@
     {
       "name": "Frankfurt",
       "station_count": 66,
-      "e5": 2.157,
+      "e5": 2.155,
       "e5_cheapest": {
-        "brand": "Supermarkt-Tankstelle",
-        "street": "GUERICKESTR.",
-        "place": "FRANKFURT",
-        "price": 2.109
+        "brand": "SB Tankstelle",
+        "street": "Senefelder Str.",
+        "place": "Offenbach",
+        "price": 2.099
       },
-      "e10": 2.098,
+      "e10": 2.096,
       "e10_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "GUERICKESTR.",
         "place": "FRANKFURT",
         "price": 2.049
       },
-      "diesel": 2.138,
+      "diesel": 2.136,
       "diesel_cheapest": {
         "brand": "SB Tankstelle",
         "street": "Senefelder Str.",
         "place": "Offenbach",
-        "price": 2.079
+        "price": 2.059
       }
     },
     {
       "name": "Stuttgart",
       "station_count": 71,
-      "e5": 2.145,
+      "e5": 2.144,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
-        "price": 2.059
+        "price": 2.049
       },
       "e10": 2.083,
       "e10_cheapest": {
@@ -148,7 +148,7 @@
         "place": "Stuttgart",
         "price": 1.989
       },
-      "diesel": 2.124,
+      "diesel": 2.123,
       "diesel_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Salzburger Straße",
@@ -184,14 +184,14 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.088,
+      "e5": 2.082,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.049
       },
-      "e10": 2.028,
+      "e10": 2.023,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -209,14 +209,14 @@
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.126,
+      "e5": 2.125,
       "e5_cheapest": {
         "brand": "Tankstation Oespel 6-22h",
         "street": "Julius-Vogel-Str.",
         "place": "Dortmund",
         "price": 2.079
       },
-      "e10": 2.067,
+      "e10": 2.066,
       "e10_cheapest": {
         "brand": "Tankstation Oespel 6-22h",
         "street": "Julius-Vogel-Str.",
@@ -234,14 +234,14 @@
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.143,
+      "e5": 2.141,
       "e5_cheapest": {
         "brand": "TotalEnergies",
         "street": "Prosperstr.",
         "place": "Bottrop",
         "price": 2.099
       },
-      "e10": 2.084,
+      "e10": 2.082,
       "e10_cheapest": {
         "brand": "TotalEnergies",
         "street": "Prosperstr.",
@@ -284,26 +284,26 @@
     {
       "name": "Dresden",
       "station_count": 52,
-      "e5": 2.103,
+      "e5": 2.1,
       "e5_cheapest": {
-        "brand": "JET",
-        "street": "PESCHELSTR.",
-        "place": "DRESDEN",
-        "price": 2.079
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.069
       },
-      "e10": 2.043,
+      "e10": 2.04,
       "e10_cheapest": {
-        "brand": "JET",
-        "street": "PESCHELSTR.",
-        "place": "DRESDEN",
-        "price": 2.019
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.009
       },
-      "diesel": 2.13,
+      "diesel": 2.128,
       "diesel_cheapest": {
-        "brand": "ESSO",
-        "street": "WASHINGTONSTR. 12",
-        "place": "DRESDEN",
-        "price": 2.109
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.099
       }
     }
   ]
