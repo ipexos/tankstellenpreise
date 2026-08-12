@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:42:54+00:00",
+  "updated_at": "2026-08-12T23:23:01+00:00",
   "national_average": {
     "e5": 2.18,
     "e10": 2.12,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.175,
       "e5_cheapest": {
         "brand": "JET",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.127,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
