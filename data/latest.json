@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:38:15+00:00",
+  "updated_at": "2026-08-13T23:22:31+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.171,
       "e5_cheapest": {
         "brand": "JET",
@@ -41,7 +41,7 @@
         "place": "HAMBURG",
         "price": 2.119
       },
-      "e10": 2.112,
+      "e10": 2.111,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.142,
       "e5_cheapest": {
         "brand": "STAR",
