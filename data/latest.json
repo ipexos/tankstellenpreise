@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-14T21:10:34+00:00",
+  "updated_at": "2026-08-14T21:37:50+00:00",
   "national_average": {
-    "e5": 2.199,
+    "e5": 2.198,
     "e10": 2.139,
-    "diesel": 2.214
+    "diesel": 2.213
   },
   "cities": [
     {
@@ -48,7 +48,7 @@
         "place": "HAMBURG",
         "price": 2.059
       },
-      "diesel": 2.22,
+      "diesel": 2.219,
       "diesel_cheapest": {
         "brand": "Hoyer",
         "street": "Georg-Wilhelm-Str.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
-      "e5": 2.197,
+      "station_count": 27,
+      "e5": 2.194,
       "e5_cheapest": {
-        "brand": "Globus SB Warenhaus",
-        "street": "An der Passage",
+        "brand": "Q1",
+        "street": "Georg-Schumann-Straße",
         "place": "Leipzig",
-        "price": 2.168
+        "price": 2.159
       },
-      "e10": 2.137,
+      "e10": 2.135,
       "e10_cheapest": {
-        "brand": "Globus SB Warenhaus",
-        "street": "An der Passage",
+        "brand": "Q1",
+        "street": "Georg-Schumann-Straße",
         "place": "Leipzig",
-        "price": 2.108
+        "price": 2.099
       },
-      "diesel": 2.167,
+      "diesel": 2.166,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
