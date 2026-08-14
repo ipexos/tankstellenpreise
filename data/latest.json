@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:59:47+00:00",
+  "updated_at": "2026-08-14T23:25:19+00:00",
   "national_average": {
     "e5": 2.199,
     "e10": 2.14,
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.194,
+      "station_count": 25,
+      "e5": 2.195,
       "e5_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
         "place": "Leipzig",
         "price": 2.159
       },
-      "e10": 2.135,
+      "e10": 2.136,
       "e10_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
