@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:39:09+00:00",
+  "updated_at": "2026-08-15T20:56:43+00:00",
   "national_average": {
     "e5": 2.182,
     "e10": 2.123,
@@ -48,12 +48,12 @@
         "place": "Hamburg",
         "price": 2.049
       },
-      "diesel": 2.191,
+      "diesel": 2.19,
       "diesel_cheapest": {
-        "brand": "STAR",
-        "street": "Hermannstal",
+        "brand": "Hoyer",
+        "street": "Georg-Wilhelm-Str.",
         "place": "Hamburg",
-        "price": 2.149
+        "price": 2.129
       }
     },
     {
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.167,
+      "diesel": 2.166,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -259,14 +259,14 @@
     {
       "name": "Bremen",
       "station_count": 29,
-      "e5": 2.161,
+      "e5": 2.16,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.119
       },
-      "e10": 2.102,
+      "e10": 2.1,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
