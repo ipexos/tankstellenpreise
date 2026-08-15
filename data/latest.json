@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T01:35:50+00:00",
+  "updated_at": "2026-08-15T02:36:59+00:00",
   "national_average": {
     "e5": 2.199,
     "e10": 2.14,
-    "diesel": 2.215
+    "diesel": 2.214
   },
   "cities": [
     {
@@ -109,7 +109,7 @@
     {
       "name": "Frankfurt",
       "station_count": 36,
-      "e5": 2.252,
+      "e5": 2.251,
       "e5_cheapest": {
         "brand": "Calpam",
         "street": "Westerbachstr",
@@ -123,7 +123,7 @@
         "place": "Roedelheim",
         "price": 2.139
       },
-      "diesel": 2.248,
+      "diesel": 2.247,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "ODENWALDRING",
