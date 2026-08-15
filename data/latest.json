@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:13:50+00:00",
+  "updated_at": "2026-08-15T20:39:09+00:00",
   "national_average": {
     "e5": 2.182,
     "e10": 2.123,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 76,
+      "station_count": 75,
       "e5": 2.142,
       "e5_cheapest": {
         "brand": "STAR",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 72,
-      "e5": 2.166,
+      "station_count": 71,
+      "e5": 2.168,
       "e5_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 2.049
       },
-      "e10": 2.106,
+      "e10": 2.107,
       "e10_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.166,
+      "diesel": 2.167,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 37,
-      "e5": 2.157,
+      "station_count": 36,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 34,
+      "station_count": 33,
       "e5": 2.201,
       "e5_cheapest": {
         "brand": "JET",
@@ -284,14 +284,14 @@
     {
       "name": "Dresden",
       "station_count": 25,
-      "e5": 2.177,
+      "e5": 2.175,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.149
       },
-      "e10": 2.117,
+      "e10": 2.115,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
