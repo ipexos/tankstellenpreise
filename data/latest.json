@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:04:18+00:00",
+  "updated_at": "2026-08-15T22:32:39+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 63,
-      "e5": 2.144,
+      "station_count": 66,
+      "e5": 2.143,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Hansastraße",
         "place": "Berlin",
         "price": 2.109
       },
-      "e10": 2.084,
+      "e10": 2.083,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Hansastraße",
         "place": "Berlin",
         "price": 2.049
       },
-      "diesel": 2.188,
+      "diesel": 2.187,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.157,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.078
       },
-      "diesel": 2.177,
+      "diesel": 2.178,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
@@ -266,7 +266,7 @@
         "place": "Bremen",
         "price": 2.119
       },
-      "e10": 2.102,
+      "e10": 2.101,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
@@ -275,23 +275,23 @@
       },
       "diesel": 2.183,
       "diesel_cheapest": {
-        "brand": "BMÖ Xpress",
-        "street": "Stresemannstraße",
-        "place": "Bremen",
-        "price": 2.169
+        "brand": "RATIO",
+        "street": "Henleinstr.",
+        "place": "Stuhr",
+        "price": 2.159
       }
     },
     {
       "name": "Dresden",
-      "station_count": 19,
-      "e5": 2.178,
+      "station_count": 20,
+      "e5": 2.177,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.149
       },
-      "e10": 2.118,
+      "e10": 2.117,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
