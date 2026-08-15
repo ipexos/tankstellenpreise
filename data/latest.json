@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:51:48+00:00",
+  "updated_at": "2026-08-15T23:04:47+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 74,
       "e5": 2.161,
       "e5_cheapest": {
         "brand": "STAR",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.157,
+      "station_count": 25,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.138
       },
-      "e10": 2.098,
+      "e10": 2.099,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.078
       },
-      "diesel": 2.178,
+      "diesel": 2.179,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
