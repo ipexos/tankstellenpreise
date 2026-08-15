@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:16:47+00:00",
+  "updated_at": "2026-08-15T21:37:23+00:00",
   "national_average": {
     "e5": 2.183,
     "e10": 2.124,
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
+      "station_count": 27,
       "e5": 2.157,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
