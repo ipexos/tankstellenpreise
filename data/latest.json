@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:29:21+00:00",
+  "updated_at": "2026-08-15T23:46:17+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
-      "e5": 2.143,
+      "station_count": 65,
+      "e5": 2.144,
       "e5_cheapest": {
-        "brand": "STAR",
-        "street": "Hansastraße",
-        "place": "Berlin",
+        "brand": "JET",
+        "street": "RHINSTR.",
+        "place": "BERLIN",
         "price": 2.109
       },
-      "e10": 2.083,
+      "e10": 2.084,
       "e10_cheapest": {
-        "brand": "STAR",
-        "street": "Hansastraße",
-        "place": "Berlin",
+        "brand": "JET",
+        "street": "RHINSTR.",
+        "place": "BERLIN",
         "price": 2.049
       },
-      "diesel": 2.187,
+      "diesel": 2.188,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.158,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
