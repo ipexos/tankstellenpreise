@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-15T00:00:48+00:00",
+  "updated_at": "2026-08-15T01:35:50+00:00",
   "national_average": {
-    "e5": 2.2,
+    "e5": 2.199,
     "e10": 2.14,
     "diesel": 2.215
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 65,
+      "station_count": 66,
       "e5": 2.145,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,14 +16,14 @@
         "place": "Berlin",
         "price": 2.109
       },
-      "e10": 2.086,
+      "e10": 2.085,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.049
       },
-      "diesel": 2.192,
+      "diesel": 2.191,
       "diesel_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.155,
+      "station_count": 53,
+      "e5": 2.156,
       "e5_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 2.049
       },
-      "e10": 2.094,
+      "e10": 2.096,
       "e10_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.159,
+      "diesel": 2.16,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.196,
+      "station_count": 26,
+      "e5": 2.194,
       "e5_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
         "place": "Leipzig",
         "price": 2.159
       },
-      "e10": 2.137,
+      "e10": 2.135,
       "e10_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
         "place": "Leipzig",
         "price": 2.099
       },
-      "diesel": 2.168,
+      "diesel": 2.167,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 23,
-      "e5": 2.161,
+      "station_count": 25,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.099
       },
-      "e10": 2.102,
+      "e10": 2.099,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.039
       },
-      "diesel": 2.186,
+      "diesel": 2.185,
       "diesel_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
