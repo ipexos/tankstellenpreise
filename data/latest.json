@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:32:39+00:00",
+  "updated_at": "2026-08-15T22:51:48+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.161,
       "e5_cheapest": {
         "brand": "STAR",
