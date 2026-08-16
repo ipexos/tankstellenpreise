@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:27:35+00:00",
+  "updated_at": "2026-08-16T23:43:27+00:00",
   "national_average": {
     "e5": 2.193,
     "e10": 2.134,
@@ -8,15 +8,15 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.144,
+      "station_count": 66,
+      "e5": 2.145,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.109
       },
-      "e10": 2.084,
+      "e10": 2.085,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.207,
+      "station_count": 24,
+      "e5": 2.208,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.178
       },
-      "e10": 2.148,
+      "e10": 2.149,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
