@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:31:51+00:00",
+  "updated_at": "2026-08-16T22:50:23+00:00",
   "national_average": {
     "e5": 2.193,
     "e10": 2.134,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.165,
       "e5_cheapest": {
         "brand": "JET",
@@ -48,7 +48,7 @@
         "place": "HAMBURG",
         "price": 2.049
       },
-      "diesel": 2.211,
+      "diesel": 2.21,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
