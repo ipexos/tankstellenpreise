@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T20:22:49+00:00",
+  "updated_at": "2026-08-16T20:43:27+00:00",
   "national_average": {
     "e5": 2.19,
     "e10": 2.13,
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 72,
-      "e5": 2.157,
+      "station_count": 70,
+      "e5": 2.16,
       "e5_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 2.049
       },
-      "e10": 2.098,
+      "e10": 2.101,
       "e10_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.167,
+      "diesel": 2.169,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 33,
+      "station_count": 32,
       "e5": 2.203,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -191,7 +191,7 @@
         "place": "Leipzig",
         "price": 2.178
       },
-      "e10": 2.143,
+      "e10": 2.144,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 33,
-      "e5": 2.191,
+      "station_count": 32,
+      "e5": 2.19,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "e10": 2.131,
+      "e10": 2.13,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.214,
+      "diesel": 2.213,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
@@ -259,14 +259,14 @@
     {
       "name": "Bremen",
       "station_count": 29,
-      "e5": 2.16,
+      "e5": 2.159,
       "e5_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.109
       },
-      "e10": 2.101,
+      "e10": 2.1,
       "e10_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
@@ -284,21 +284,21 @@
     {
       "name": "Dresden",
       "station_count": 25,
-      "e5": 2.216,
+      "e5": 2.215,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.179
       },
-      "e10": 2.156,
+      "e10": 2.155,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.119
       },
-      "diesel": 2.266,
+      "diesel": 2.265,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
