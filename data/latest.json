@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T01:23:36+00:00",
+  "updated_at": "2026-08-16T02:37:27+00:00",
   "national_average": {
     "e5": 2.184,
     "e10": 2.125,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 64,
+      "station_count": 66,
       "e5": 2.143,
       "e5_cheapest": {
         "brand": "STAR",
