@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:19:59+00:00",
+  "updated_at": "2026-08-16T21:38:46+00:00",
   "national_average": {
     "e5": 2.192,
     "e10": 2.133,
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 28,
-      "e5": 2.205,
+      "station_count": 27,
+      "e5": 2.206,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.178
       },
-      "e10": 2.146,
+      "e10": 2.147,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
