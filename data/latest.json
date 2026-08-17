@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-17T10:51:18+00:00",
+  "updated_at": "2026-08-17T11:11:53+00:00",
   "national_average": {
-    "e5": 2.378,
-    "e10": 2.318,
-    "diesel": 2.418
+    "e5": 2.364,
+    "e10": 2.304,
+    "diesel": 2.403
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 106,
-      "e5": 2.378,
+      "e5": 2.371,
       "e5_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.138
       },
-      "e10": 2.318,
+      "e10": 2.311,
       "e10_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.108
       },
-      "diesel": 2.418,
+      "diesel": 2.41,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -34,21 +34,21 @@
     {
       "name": "Hamburg",
       "station_count": 106,
-      "e5": 2.386,
+      "e5": 2.375,
       "e5_cheapest": {
         "brand": "CleanCar",
         "street": "Steilshooper Allee",
         "place": "Hamburg",
         "price": 2.319
       },
-      "e10": 2.327,
+      "e10": 2.315,
       "e10_cheapest": {
         "brand": "CleanCar",
         "street": "Steilshooper Allee",
         "place": "Hamburg",
-        "price": 2.269
+        "price": 2.259
       },
-      "diesel": 2.421,
+      "diesel": 2.408,
       "diesel_cheapest": {
         "brand": "CleanCar",
         "street": "Steilshooper Allee",
@@ -59,21 +59,21 @@
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.368,
+      "e5": 2.351,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
         "place": "München",
         "price": 2.058
       },
-      "e10": 2.307,
+      "e10": 2.292,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
         "place": "München",
         "price": 1.998
       },
-      "diesel": 2.405,
+      "diesel": 2.386,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -84,121 +84,121 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.39,
+      "e5": 2.382,
       "e5_cheapest": {
-        "brand": "SB",
-        "street": "Berrenratherstrasse.",
-        "place": "Huerth",
-        "price": 2.259
+        "brand": "Globus SB Warenhaus",
+        "street": "Max-Planck Straße",
+        "place": "Köln-Marsdorf",
+        "price": 2.258
       },
-      "e10": 2.33,
+      "e10": 2.322,
       "e10_cheapest": {
         "brand": "SB",
         "street": "Berrenratherstrasse.",
         "place": "Huerth",
         "price": 2.199
       },
-      "diesel": 2.417,
+      "diesel": 2.411,
       "diesel_cheapest": {
-        "brand": "SB",
-        "street": "Berrenratherstrasse.",
-        "place": "Huerth",
-        "price": 2.249
+        "brand": "Globus SB Warenhaus",
+        "street": "Max-Planck Straße",
+        "place": "Köln-Marsdorf",
+        "price": 2.248
       }
     },
     {
       "name": "Frankfurt",
       "station_count": 66,
-      "e5": 2.402,
+      "e5": 2.39,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "GUERICKESTR.",
         "place": "FRANKFURT",
-        "price": 2.289
+        "price": 2.279
       },
-      "e10": 2.343,
+      "e10": 2.33,
       "e10_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "GUERICKESTR.",
         "place": "FRANKFURT",
-        "price": 2.229
+        "price": 2.219
       },
-      "diesel": 2.44,
+      "diesel": 2.426,
       "diesel_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "GUERICKESTR.",
         "place": "FRANKFURT",
-        "price": 2.279
+        "price": 2.269
       }
     },
     {
       "name": "Stuttgart",
       "station_count": 71,
-      "e5": 2.346,
+      "e5": 2.32,
       "e5_cheapest": {
-        "brand": "Shell",
-        "street": "Stuttgarter Str.",
-        "place": "Ostfildern",
-        "price": 2.199
+        "brand": "Supermarkt-Tankstelle",
+        "street": "WANNENRAIN",
+        "place": "ESSLINGEN",
+        "price": 2.119
       },
-      "e10": 2.285,
+      "e10": 2.259,
       "e10_cheapest": {
-        "brand": "Shell",
-        "street": "Stuttgarter Str.",
-        "place": "Ostfildern",
-        "price": 2.139
+        "brand": "Supermarkt-Tankstelle",
+        "street": "WANNENRAIN",
+        "place": "ESSLINGEN",
+        "price": 2.059
       },
-      "diesel": 2.408,
+      "diesel": 2.386,
       "diesel_cheapest": {
-        "brand": "Shell",
-        "street": "Stuttgarter Str.",
-        "place": "Ostfildern",
-        "price": 2.229
+        "brand": "Supermarkt-Tankstelle",
+        "street": "WANNENRAIN",
+        "place": "ESSLINGEN",
+        "price": 2.179
       }
     },
     {
       "name": "Düsseldorf",
       "station_count": 65,
-      "e5": 2.381,
+      "e5": 2.37,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
-        "price": 2.259
+        "price": 2.249
       },
-      "e10": 2.321,
+      "e10": 2.31,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
-        "price": 2.199
+        "price": 2.189
       },
-      "diesel": 2.419,
+      "diesel": 2.405,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
-        "price": 2.249
+        "price": 2.239
       }
     },
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.374,
+      "e5": 2.357,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.259
       },
-      "e10": 2.315,
+      "e10": 2.297,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.199
       },
-      "diesel": 2.416,
+      "diesel": 2.393,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -209,24 +209,24 @@
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.381,
+      "e5": 2.373,
       "e5_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Benninghofer Str.",
+        "brand": "SB",
+        "street": "Dernerstr.",
         "place": "Dortmund",
-        "price": 2.309
+        "price": 2.289
       },
-      "e10": 2.322,
+      "e10": 2.313,
       "e10_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Benninghofer Str.",
+        "brand": "SB",
+        "street": "Dernerstr.",
         "place": "Dortmund",
-        "price": 2.249
+        "price": 2.229
       },
-      "diesel": 2.423,
+      "diesel": 2.414,
       "diesel_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Benninghofer Str.",
+        "brand": "SB",
+        "street": "Dernerstr.",
         "place": "Dortmund",
         "price": 2.339
       }
@@ -234,74 +234,74 @@
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.382,
+      "e5": 2.375,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "OTTOSTR.",
         "place": "BOCHUM",
         "price": 2.349
       },
-      "e10": 2.322,
+      "e10": 2.315,
       "e10_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "OTTOSTR.",
         "place": "BOCHUM",
         "price": 2.289
       },
-      "diesel": 2.421,
+      "diesel": 2.413,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "GLADBECKER STR.",
-        "place": "ESSEN",
-        "price": 2.389
+        "brand": "Supermarkt-Tankstelle",
+        "street": "OTTOSTR.",
+        "place": "BOCHUM",
+        "price": 2.359
       }
     },
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.379,
+      "e5": 2.367,
       "e5_cheapest": {
-        "brand": "BMÖ",
-        "street": "Plantage",
-        "place": "Bremen",
-        "price": 2.339
-      },
-      "e10": 2.32,
-      "e10_cheapest": {
-        "brand": "BMÖ",
-        "street": "Plantage",
+        "brand": "OIL!",
+        "street": "Kirchhuchtinger Landstr. 112",
         "place": "Bremen",
         "price": 2.279
       },
-      "diesel": 2.418,
+      "e10": 2.308,
+      "e10_cheapest": {
+        "brand": "OIL!",
+        "street": "Kirchhuchtinger Landstr. 112",
+        "place": "Bremen",
+        "price": 2.219
+      },
+      "diesel": 2.403,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "VAHRER STR.",
-        "place": "BREMEN",
-        "price": 2.359
+        "brand": "OIL!",
+        "street": "Kirchhuchtinger Landstr. 112",
+        "place": "Bremen",
+        "price": 2.319
       }
     },
     {
       "name": "Dresden",
       "station_count": 52,
-      "e5": 2.368,
+      "e5": 2.334,
       "e5_cheapest": {
-        "brand": "HEM",
-        "street": "Dohnaer Straße",
+        "brand": "STAR",
+        "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.139
       },
-      "e10": 2.308,
+      "e10": 2.273,
       "e10_cheapest": {
-        "brand": "HEM",
-        "street": "Dohnaer Straße",
+        "brand": "STAR",
+        "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.079
       },
-      "diesel": 2.411,
+      "diesel": 2.375,
       "diesel_cheapest": {
-        "brand": "HEM",
-        "street": "Dohnaer Straße",
+        "brand": "STAR",
+        "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.199
       }
