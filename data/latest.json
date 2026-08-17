@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:56:40+00:00",
+  "updated_at": "2026-08-17T00:58:39+00:00",
   "national_average": {
     "e5": 2.193,
     "e10": 2.134,
@@ -8,15 +8,15 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
-      "e5": 2.145,
+      "station_count": 67,
+      "e5": 2.144,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.109
       },
-      "e10": 2.085,
+      "e10": 2.084,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.164,
+      "station_count": 53,
+      "e5": 2.166,
       "e5_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 2.049
       },
-      "e10": 2.106,
+      "e10": 2.108,
       "e10_cheapest": {
         "brand": "AVIA",
         "street": "Hochstr.",
         "place": "München",
         "price": 1.989
       },
-      "diesel": 2.169,
+      "diesel": 2.17,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.192,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -248,7 +248,7 @@
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.22,
+      "diesel": 2.221,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
