@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:02:20+00:00",
+  "updated_at": "2026-08-17T20:35:36+00:00",
   "national_average": {
     "e5": 2.214,
     "e10": 2.155,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 75,
+      "station_count": 74,
       "e5": 2.168,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,7 +16,7 @@
         "place": "Berlin",
         "price": 2.129
       },
-      "e10": 2.108,
+      "e10": 2.109,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 72,
+      "station_count": 70,
       "e5": 2.18,
       "e5_cheapest": {
         "brand": "V-Markt",
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 1.998
       },
-      "diesel": 2.209,
+      "diesel": 2.21,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 37,
+      "station_count": 36,
       "e5": 2.271,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 33,
-      "e5": 2.244,
+      "station_count": 32,
+      "e5": 2.243,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
-        "price": 2.199
+        "price": 2.189
       },
-      "e10": 2.184,
+      "e10": 2.183,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
-        "price": 2.139
+        "price": 2.129
       },
-      "diesel": 2.293,
+      "diesel": 2.292,
       "diesel_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Aktienstr.",
@@ -284,14 +284,14 @@
     {
       "name": "Dresden",
       "station_count": 25,
-      "e5": 2.181,
+      "e5": 2.18,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
         "place": "Dresden",
         "price": 2.139
       },
-      "e10": 2.121,
+      "e10": 2.12,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
