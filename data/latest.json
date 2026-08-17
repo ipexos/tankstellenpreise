@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:58:39+00:00",
+  "updated_at": "2026-08-17T02:19:27+00:00",
   "national_average": {
     "e5": 2.193,
     "e10": 2.134,
@@ -83,7 +83,7 @@
     },
     {
       "name": "Köln",
-      "station_count": 40,
+      "station_count": 41,
       "e5": 2.243,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
@@ -109,14 +109,14 @@
     {
       "name": "Frankfurt",
       "station_count": 36,
-      "e5": 2.242,
+      "e5": 2.241,
       "e5_cheapest": {
         "brand": "JET",
         "street": "ODENWALDRING",
         "place": "OFFENBACH",
         "price": 2.149
       },
-      "e10": 2.185,
+      "e10": 2.184,
       "e10_cheapest": {
         "brand": "JET",
         "street": "ODENWALDRING",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.208,
+      "station_count": 27,
+      "e5": 2.206,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.178
       },
-      "e10": 2.149,
+      "e10": 2.147,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.118
       },
-      "diesel": 2.18,
+      "diesel": 2.179,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.192,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -248,7 +248,7 @@
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.221,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
