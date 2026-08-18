@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:32:58+00:00",
+  "updated_at": "2026-08-18T22:54:41+00:00",
   "national_average": {
     "e5": 2.202,
     "e10": 2.143,
@@ -33,22 +33,22 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
-      "e5": 2.223,
+      "station_count": 72,
+      "e5": 2.225,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
         "place": "HAMBURG",
         "price": 2.119
       },
-      "e10": 2.162,
+      "e10": 2.164,
       "e10_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
         "place": "HAMBURG",
         "price": 2.059
       },
-      "diesel": 2.262,
+      "diesel": 2.264,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
