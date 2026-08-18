@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T19:43:18+00:00",
+  "updated_at": "2026-08-18T19:57:56+00:00",
   "national_average": {
     "e5": 2.198,
-    "e10": 2.139,
+    "e10": 2.138,
     "diesel": 2.238
   },
   "cities": [
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 58,
+      "station_count": 57,
       "e5": 2.213,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 62,
+      "station_count": 61,
       "e5": 2.165,
       "e5_cheapest": {
         "brand": "RAN",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 60,
-      "e5": 2.236,
+      "station_count": 59,
+      "e5": 2.233,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.159
       },
-      "e10": 2.178,
+      "e10": 2.174,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "diesel": 2.276,
+      "diesel": 2.275,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -259,26 +259,26 @@
     {
       "name": "Bremen",
       "station_count": 49,
-      "e5": 2.223,
+      "e5": 2.22,
       "e5_cheapest": {
         "brand": "bft",
         "street": "Auf Dem Bohnenkamp",
         "place": "Bremen",
         "price": 2.159
       },
-      "e10": 2.163,
+      "e10": 2.16,
       "e10_cheapest": {
         "brand": "bft",
         "street": "Auf Dem Bohnenkamp",
         "place": "Bremen",
         "price": 2.099
       },
-      "diesel": 2.26,
+      "diesel": 2.256,
       "diesel_cheapest": {
         "brand": "OIL!",
         "street": "Kirchhuchtinger Landstr. 112",
         "place": "Bremen",
-        "price": 2.219
+        "price": 2.209
       }
     },
     {
