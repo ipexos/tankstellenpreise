@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:54:41+00:00",
+  "updated_at": "2026-08-18T23:12:30+00:00",
   "national_average": {
     "e5": 2.202,
     "e10": 2.143,
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.099
       },
-      "diesel": 2.212,
+      "diesel": 2.213,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
