@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T00:24:43+00:00",
+  "updated_at": "2026-08-18T01:56:10+00:00",
   "national_average": {
     "e5": 2.217,
     "e10": 2.158,
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.185,
+      "station_count": 53,
+      "e5": 2.186,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 2.058
       },
-      "e10": 2.127,
+      "e10": 2.128,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -158,15 +158,15 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 29,
-      "e5": 2.23,
+      "station_count": 30,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.169
       },
-      "e10": 2.17,
+      "e10": 2.169,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 20,
+      "station_count": 26,
       "e5": 2.27,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.308,
+      "diesel": 2.309,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Bremen",
-      "station_count": 24,
+      "station_count": 25,
       "e5": 2.187,
       "e5_cheapest": {
         "brand": "HEM",
