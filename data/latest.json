@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:31:02+00:00",
+  "updated_at": "2026-08-18T21:50:14+00:00",
   "national_average": {
     "e5": 2.202,
     "e10": 2.143,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.14,
+      "station_count": 64,
+      "e5": 2.141,
       "e5_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.109
       },
-      "e10": 2.08,
+      "e10": 2.081,
       "e10_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.049
       },
-      "diesel": 2.186,
+      "diesel": 2.187,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 61,
+      "station_count": 60,
       "e5": 2.141,
       "e5_cheapest": {
         "brand": "JET",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -191,7 +191,7 @@
         "place": "Wachau",
         "price": 2.159
       },
-      "e10": 2.182,
+      "e10": 2.181,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -283,15 +283,15 @@
     },
     {
       "name": "Dresden",
-      "station_count": 18,
-      "e5": 2.158,
+      "station_count": 17,
+      "e5": 2.159,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.139
       },
-      "e10": 2.098,
+      "e10": 2.099,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
