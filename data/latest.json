@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:12:30+00:00",
+  "updated_at": "2026-08-18T23:35:21+00:00",
   "national_average": {
     "e5": 2.202,
     "e10": 2.143,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 66,
       "e5": 2.14,
       "e5_cheapest": {
         "brand": "JET",
@@ -16,14 +16,14 @@
         "place": "BERLIN",
         "price": 2.109
       },
-      "e10": 2.08,
+      "e10": 2.081,
       "e10_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.049
       },
-      "diesel": 2.186,
+      "diesel": 2.187,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
