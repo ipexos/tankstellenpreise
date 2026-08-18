@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:56:10+00:00",
+  "updated_at": "2026-08-18T02:50:27+00:00",
   "national_average": {
     "e5": 2.217,
     "e10": 2.158,
@@ -83,7 +83,7 @@
     },
     {
       "name": "Köln",
-      "station_count": 39,
+      "station_count": 40,
       "e5": 2.275,
       "e5_cheapest": {
         "brand": "Shell",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 29,
       "e5": 2.27,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
-      "e5": 2.248,
+      "station_count": 27,
+      "e5": 2.247,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
         "price": 2.189
       },
-      "e10": 2.188,
+      "e10": 2.187,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
         "price": 2.129
       },
-      "diesel": 2.299,
+      "diesel": 2.297,
       "diesel_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Aktienstr.",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.187,
+      "station_count": 26,
+      "e5": 2.186,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.119
       },
-      "e10": 2.128,
+      "e10": 2.127,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.059
       },
-      "diesel": 2.211,
+      "diesel": 2.21,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
@@ -283,15 +283,15 @@
     },
     {
       "name": "Dresden",
-      "station_count": 18,
-      "e5": 2.191,
+      "station_count": 19,
+      "e5": 2.189,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Dohnaer Straße",
         "place": "Dresden",
         "price": 2.139
       },
-      "e10": 2.131,
+      "e10": 2.129,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Dohnaer Straße",
