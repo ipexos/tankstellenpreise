@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-18T11:39:00+00:00",
+  "updated_at": "2026-08-18T11:58:27+00:00",
   "national_average": {
-    "e5": 2.332,
-    "e10": 2.273,
-    "diesel": 2.384
+    "e5": 2.314,
+    "e10": 2.255,
+    "diesel": 2.363
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 106,
-      "e5": 2.332,
+      "e5": 2.312,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Straße vor Schönholz",
         "place": "Berlin",
         "price": 2.129
       },
-      "e10": 2.272,
+      "e10": 2.252,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Straße vor Schönholz",
         "place": "Berlin",
         "price": 2.069
       },
-      "diesel": 2.385,
+      "diesel": 2.361,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -34,46 +34,46 @@
     {
       "name": "Hamburg",
       "station_count": 106,
-      "e5": 2.378,
+      "e5": 2.369,
       "e5_cheapest": {
-        "brand": "CleanCar",
-        "street": "Steilshooper Allee",
-        "place": "Hamburg",
-        "price": 2.329
-      },
-      "e10": 2.319,
-      "e10_cheapest": {
-        "brand": "CleanCar",
-        "street": "Steilshooper Allee",
+        "brand": "Shell",
+        "street": "Altenwerder Hauptdeich",
         "place": "Hamburg",
         "price": 2.269
       },
-      "diesel": 2.427,
-      "diesel_cheapest": {
-        "brand": "OIL!",
-        "street": "Wendenstraße 23-29",
+      "e10": 2.31,
+      "e10_cheapest": {
+        "brand": "Shell",
+        "street": "Altenwerder Hauptdeich",
         "place": "Hamburg",
-        "price": 2.359
+        "price": 2.209
+      },
+      "diesel": 2.416,
+      "diesel_cheapest": {
+        "brand": "Shell",
+        "street": "Altenwerder Hauptdeich",
+        "place": "Hamburg",
+        "price": 2.279
       }
     },
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.26,
+      "e5": 2.224,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
         "place": "München",
         "price": 2.088
       },
-      "e10": 2.207,
+      "e10": 2.17,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
         "place": "München",
         "price": 2.028
       },
-      "diesel": 2.32,
+      "diesel": 2.275,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -84,21 +84,21 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.374,
+      "e5": 2.366,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Berrenrather Straße",
         "place": "Köln",
         "price": 2.269
       },
-      "e10": 2.315,
+      "e10": 2.306,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Berrenrather Straße",
         "place": "Köln",
         "price": 2.209
       },
-      "diesel": 2.414,
+      "diesel": 2.404,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Berrenrather Straße",
@@ -109,21 +109,21 @@
     {
       "name": "Frankfurt",
       "station_count": 66,
-      "e5": 2.344,
+      "e5": 2.318,
       "e5_cheapest": {
         "brand": "OIL!",
         "street": "Sprendlinger Landstr. 173",
         "place": "Offenbach",
-        "price": 2.189
+        "price": 2.179
       },
-      "e10": 2.285,
+      "e10": 2.259,
       "e10_cheapest": {
         "brand": "OIL!",
         "street": "Sprendlinger Landstr. 173",
         "place": "Offenbach",
-        "price": 2.129
+        "price": 2.119
       },
-      "diesel": 2.389,
+      "diesel": 2.351,
       "diesel_cheapest": {
         "brand": "OIL!",
         "street": "Sprendlinger Landstr. 173",
@@ -134,21 +134,21 @@
     {
       "name": "Stuttgart",
       "station_count": 71,
-      "e5": 2.223,
+      "e5": 2.208,
       "e5_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.129
       },
-      "e10": 2.162,
+      "e10": 2.147,
       "e10_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.069
       },
-      "diesel": 2.281,
+      "diesel": 2.261,
       "diesel_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Salzburger Straße",
@@ -159,46 +159,46 @@
     {
       "name": "Düsseldorf",
       "station_count": 65,
-      "e5": 2.376,
+      "e5": 2.373,
       "e5_cheapest": {
         "brand": "Mr. Wash Autoservice AG",
         "street": "Völklinger Straße",
         "place": "Düsseldorf",
-        "price": 2.349
+        "price": 2.339
       },
-      "e10": 2.316,
+      "e10": 2.314,
       "e10_cheapest": {
         "brand": "Mr. Wash Autoservice AG",
         "street": "Völklinger Straße",
         "place": "Düsseldorf",
-        "price": 2.289
+        "price": 2.279
       },
-      "diesel": 2.428,
+      "diesel": 2.424,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
-        "price": 2.359
+        "price": 2.349
       }
     },
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.312,
+      "e5": 2.292,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Mockauer Str.",
         "place": "Leipzig",
         "price": 2.248
       },
-      "e10": 2.252,
+      "e10": 2.232,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Mockauer Str.",
         "place": "Leipzig",
         "price": 2.188
       },
-      "diesel": 2.359,
+      "diesel": 2.339,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Georg-Schumann-Straße",
@@ -209,49 +209,49 @@
     {
       "name": "Dortmund",
       "station_count": 70,
-      "e5": 2.358,
+      "e5": 2.347,
       "e5_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Benninghofer Str.",
-        "place": "Dortmund",
-        "price": 2.299
-      },
-      "e10": 2.298,
-      "e10_cheapest": {
-        "brand": "Markant (Tankautomat)",
-        "street": "Benninghofer Str.",
-        "place": "Dortmund",
-        "price": 2.239
-      },
-      "diesel": 2.423,
-      "diesel_cheapest": {
-        "brand": "Bavaria Petrol",
+        "brand": "STAR",
         "street": "Evinger Straße",
         "place": "Dortmund",
-        "price": 2.349
+        "price": 2.289
+      },
+      "e10": 2.286,
+      "e10_cheapest": {
+        "brand": "STAR",
+        "street": "Evinger Straße",
+        "place": "Dortmund",
+        "price": 2.229
+      },
+      "diesel": 2.414,
+      "diesel_cheapest": {
+        "brand": "STAR",
+        "street": "Evinger Straße",
+        "place": "Dortmund",
+        "price": 2.339
       }
     },
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.369,
+      "e5": 2.361,
       "e5_cheapest": {
         "brand": "PM",
         "street": "Krayer Str.",
         "place": "Essen",
         "price": 2.169
       },
-      "e10": 2.309,
+      "e10": 2.301,
       "e10_cheapest": {
         "brand": "PM",
         "street": "Krayer Str.",
         "place": "Essen",
         "price": 2.119
       },
-      "diesel": 2.402,
+      "diesel": 2.391,
       "diesel_cheapest": {
-        "brand": "STAR",
-        "street": "Huestraße",
+        "brand": "OIL!",
+        "street": "Elisenstraße 69",
         "place": "Essen",
         "price": 2.249
       }
@@ -259,21 +259,21 @@
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.366,
+      "e5": 2.356,
       "e5_cheapest": {
-        "brand": "STAR",
-        "street": "Oldenburger Straße",
+        "brand": "OIL!",
+        "street": "Kirchhuchtinger Landstr. 112",
         "place": "Bremen",
         "price": 2.219
       },
-      "e10": 2.306,
+      "e10": 2.296,
       "e10_cheapest": {
-        "brand": "STAR",
-        "street": "Oldenburger Straße",
+        "brand": "OIL!",
+        "street": "Kirchhuchtinger Landstr. 112",
         "place": "Bremen",
         "price": 2.159
       },
-      "diesel": 2.415,
+      "diesel": 2.404,
       "diesel_cheapest": {
         "brand": "OIL!",
         "street": "Kirchhuchtinger Landstr. 112",
@@ -284,21 +284,21 @@
     {
       "name": "Dresden",
       "station_count": 52,
-      "e5": 2.297,
+      "e5": 2.245,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
         "price": 2.148
       },
-      "e10": 2.236,
+      "e10": 2.187,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
         "price": 2.088
       },
-      "diesel": 2.37,
+      "diesel": 2.316,
       "diesel_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
