@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:25:14+00:00",
+  "updated_at": "2026-08-18T09:56:17+00:00",
   "national_average": {
     "e5": 2.187,
     "e10": 2.128,
@@ -9,21 +9,21 @@
     {
       "name": "Berlin",
       "station_count": 106,
-      "e5": 2.138,
+      "e5": 2.136,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.109
       },
-      "e10": 2.079,
+      "e10": 2.076,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.049
       },
-      "diesel": 2.177,
+      "diesel": 2.176,
       "diesel_cheapest": {
         "brand": "bft-Tankstelle",
         "street": "Kapweg",
@@ -59,7 +59,7 @@
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.134,
+      "e5": 2.133,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -184,7 +184,7 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.261,
+      "e5": 2.26,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.099
       },
-      "diesel": 2.286,
+      "diesel": 2.283,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -234,7 +234,7 @@
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.203,
+      "e5": 2.202,
       "e5_cheapest": {
         "brand": "OIL!",
         "street": "Elisenstraße 69",
