@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-18T23:53:40+00:00",
+  "updated_at": "2026-08-19T00:27:38+00:00",
   "national_average": {
-    "e5": 2.202,
-    "e10": 2.143,
+    "e5": 2.203,
+    "e10": 2.144,
     "diesel": 2.243
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
+      "station_count": 67,
       "e5": 2.14,
       "e5_cheapest": {
         "brand": "JET",
@@ -16,14 +16,14 @@
         "place": "BERLIN",
         "price": 2.109
       },
-      "e10": 2.081,
+      "e10": 2.08,
       "e10_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.049
       },
-      "diesel": 2.187,
+      "diesel": 2.186,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
-      "e5": 2.253,
+      "station_count": 29,
+      "e5": 2.255,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.159
       },
-      "e10": 2.195,
+      "e10": 2.197,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "diesel": 2.298,
+      "diesel": 2.299,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
+      "station_count": 20,
       "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.219,
+      "station_count": 24,
+      "e5": 2.22,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.159
       },
-      "e10": 2.16,
+      "e10": 2.161,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.099
       },
-      "diesel": 2.254,
+      "diesel": 2.255,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
