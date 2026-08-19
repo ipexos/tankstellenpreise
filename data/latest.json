@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T06:30:45+00:00",
+  "updated_at": "2026-08-19T07:21:39+00:00",
   "national_average": {
     "e5": 2.194,
-    "e10": 2.134,
+    "e10": 2.135,
     "diesel": 2.235
   },
   "cities": [
@@ -33,22 +33,22 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 105,
-      "e5": 2.209,
+      "station_count": 106,
+      "e5": 2.211,
       "e5_cheapest": {
         "brand": "OIL!",
         "street": "Wendenstraße 23-29",
         "place": "Hamburg",
         "price": 2.109
       },
-      "e10": 2.149,
+      "e10": 2.151,
       "e10_cheapest": {
         "brand": "Freie",
         "street": "Papenstraße",
         "place": "Hamburg",
         "price": 2.049
       },
-      "diesel": 2.251,
+      "diesel": 2.252,
       "diesel_cheapest": {
         "brand": "OIL!",
         "street": "Wendenstraße 23-29",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 106,
+      "station_count": 107,
       "e5": 2.135,
       "e5_cheapest": {
         "brand": "JET",
@@ -73,7 +73,7 @@
         "place": "MUENCHEN",
         "price": 2.019
       },
-      "diesel": 2.198,
+      "diesel": 2.197,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 65,
+      "station_count": 66,
       "e5": 2.207,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 69,
+      "station_count": 70,
       "e5": 2.164,
       "e5_cheapest": {
         "brand": "RAN",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 64,
-      "e5": 2.231,
+      "station_count": 65,
+      "e5": 2.232,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.159
       },
-      "e10": 2.172,
+      "e10": 2.173,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "diesel": 2.274,
+      "diesel": 2.275,
       "diesel_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "BATAVERSTR.",
