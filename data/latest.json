@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T00:27:38+00:00",
+  "updated_at": "2026-08-19T02:00:14+00:00",
   "national_average": {
-    "e5": 2.203,
-    "e10": 2.144,
+    "e5": 2.202,
+    "e10": 2.143,
     "diesel": 2.243
   },
   "cities": [
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 54,
+      "station_count": 53,
       "e5": 2.14,
       "e5_cheapest": {
         "brand": "V-Markt",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 29,
-      "e5": 2.255,
+      "station_count": 30,
+      "e5": 2.253,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.159
       },
-      "e10": 2.197,
+      "e10": 2.195,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.099
       },
-      "diesel": 2.299,
+      "diesel": 2.298,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 20,
+      "station_count": 26,
       "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.099
       },
-      "diesel": 2.213,
+      "diesel": 2.212,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 24,
-      "e5": 2.22,
+      "station_count": 25,
+      "e5": 2.219,
       "e5_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.159
       },
-      "e10": 2.161,
+      "e10": 2.16,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.099
       },
-      "diesel": 2.255,
+      "diesel": 2.254,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
