@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:01:49+00:00",
+  "updated_at": "2026-08-19T22:32:08+00:00",
   "national_average": {
     "e5": 2.205,
     "e10": 2.146,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 64,
-      "e5": 2.147,
+      "station_count": 67,
+      "e5": 2.146,
       "e5_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.119
       },
-      "e10": 2.087,
+      "e10": 2.086,
       "e10_cheapest": {
         "brand": "JET",
         "street": "PRENZLAUER PROMENADE",
         "place": "BERLIN",
         "price": 2.059
       },
-      "diesel": 2.201,
+      "diesel": 2.2,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.227,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 17,
-      "e5": 2.238,
+      "station_count": 18,
+      "e5": 2.236,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.189
       },
-      "e10": 2.178,
+      "e10": 2.176,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.129
       },
-      "diesel": 2.295,
+      "diesel": 2.293,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
