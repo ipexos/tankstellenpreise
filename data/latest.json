@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:17:36+00:00",
+  "updated_at": "2026-08-19T21:43:55+00:00",
   "national_average": {
     "e5": 2.205,
     "e10": 2.146,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 66,
       "e5": 2.146,
       "e5_cheapest": {
         "brand": "JET",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 62,
-      "e5": 2.19,
+      "station_count": 61,
+      "e5": 2.191,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.078
       },
-      "e10": 2.131,
+      "e10": 2.133,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 2.028
       },
-      "diesel": 2.225,
+      "diesel": 2.226,
       "diesel_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 28,
-      "e5": 2.229,
+      "station_count": 26,
+      "e5": 2.227,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.179
       },
-      "e10": 2.169,
+      "e10": 2.168,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
