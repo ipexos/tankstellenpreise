@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T19:42:19+00:00",
+  "updated_at": "2026-08-19T19:59:02+00:00",
   "national_average": {
     "e5": 2.201,
-    "e10": 2.142,
+    "e10": 2.141,
     "diesel": 2.248
   },
   "cities": [
@@ -34,7 +34,7 @@
     {
       "name": "Hamburg",
       "station_count": 99,
-      "e5": 2.18,
+      "e5": 2.179,
       "e5_cheapest": {
         "brand": "JET",
         "street": "SCHLENZIGSTR.",
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 103,
-      "e5": 2.186,
+      "e5": 2.184,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.078
       },
-      "e10": 2.128,
+      "e10": 2.126,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 58,
+      "station_count": 57,
       "e5": 2.235,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -123,7 +123,7 @@
         "place": "Offenbach",
         "price": 2.099
       },
-      "diesel": 2.262,
+      "diesel": 2.261,
       "diesel_cheapest": {
         "brand": "SB Tankstelle",
         "street": "Senefelder Str.",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 61,
+      "station_count": 60,
       "e5": 2.184,
       "e5_cheapest": {
         "brand": "RAN",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 60,
+      "station_count": 59,
       "e5": 2.2,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -273,7 +273,7 @@
         "place": "Bremen",
         "price": 2.099
       },
-      "diesel": 2.231,
+      "diesel": 2.23,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
@@ -284,26 +284,26 @@
     {
       "name": "Dresden",
       "station_count": 36,
-      "e5": 2.231,
+      "e5": 2.225,
       "e5_cheapest": {
-        "brand": "Greenline",
-        "street": "Großenhainer Str.",
-        "place": "Dresden",
-        "price": 2.198
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.189
       },
-      "e10": 2.171,
+      "e10": 2.165,
       "e10_cheapest": {
-        "brand": "Greenline",
-        "street": "Großenhainer Str.",
-        "place": "Dresden",
-        "price": 2.138
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.129
       },
-      "diesel": 2.293,
+      "diesel": 2.288,
       "diesel_cheapest": {
-        "brand": "Greenline",
-        "street": "Großenhainer Str.",
-        "place": "Dresden",
-        "price": 2.268
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.259
       }
     }
   ]
