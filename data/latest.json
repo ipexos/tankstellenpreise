@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:12:50+00:00",
+  "updated_at": "2026-08-19T23:36:21+00:00",
   "national_average": {
     "e5": 2.205,
     "e10": 2.146,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 66,
       "e5": 2.146,
       "e5_cheapest": {
         "brand": "JET",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.228,
+      "station_count": 24,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.179
       },
-      "e10": 2.169,
+      "e10": 2.17,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
