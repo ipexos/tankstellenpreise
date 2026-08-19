@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T20:29:40+00:00",
+  "updated_at": "2026-08-19T20:55:13+00:00",
   "national_average": {
     "e5": 2.203,
     "e10": 2.144,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 75,
+      "station_count": 74,
       "e5": 2.145,
       "e5_cheapest": {
         "brand": "JET",
@@ -23,7 +23,7 @@
         "place": "BERLIN",
         "price": 2.059
       },
-      "diesel": 2.2,
+      "diesel": 2.199,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 72,
-      "e5": 2.187,
+      "station_count": 70,
+      "e5": 2.189,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.078
       },
-      "e10": 2.129,
+      "e10": 2.13,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 37,
+      "station_count": 36,
       "e5": 2.23,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -191,14 +191,14 @@
         "place": "Wachau",
         "price": 2.179
       },
-      "e10": 2.17,
+      "e10": 2.171,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.218,
+      "diesel": 2.219,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,15 +233,15 @@
     },
     {
       "name": "Essen",
-      "station_count": 33,
-      "e5": 2.191,
+      "station_count": 32,
+      "e5": 2.19,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.159
       },
-      "e10": 2.131,
+      "e10": 2.13,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
-      "e5": 2.228,
+      "station_count": 24,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.189
       },
-      "e10": 2.168,
+      "e10": 2.169,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.129
       },
-      "diesel": 2.288,
+      "diesel": 2.289,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
