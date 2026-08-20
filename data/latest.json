@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-20T22:15:37+00:00",
+  "updated_at": "2026-08-20T22:47:25+00:00",
   "national_average": {
     "e5": 2.204,
-    "e10": 2.145,
+    "e10": 2.144,
     "diesel": 2.248
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 64,
-      "e5": 2.156,
+      "station_count": 67,
+      "e5": 2.155,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.129
       },
-      "e10": 2.096,
+      "e10": 2.095,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.069
       },
-      "diesel": 2.206,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.183,
       "e5_cheapest": {
         "brand": "SVG",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.242,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.148
       },
-      "diesel": 2.219,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 17,
-      "e5": 2.231,
+      "station_count": 18,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.189
       },
-      "e10": 2.171,
+      "e10": 2.169,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.129
       },
-      "diesel": 2.274,
+      "diesel": 2.273,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
