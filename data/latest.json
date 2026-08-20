@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T19:03:14+00:00",
+  "updated_at": "2026-08-20T19:38:17+00:00",
   "national_average": {
-    "e5": 2.203,
-    "e10": 2.143,
-    "diesel": 2.246
+    "e5": 2.2,
+    "e10": 2.141,
+    "diesel": 2.245
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 102,
+      "station_count": 100,
       "e5": 2.152,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 100,
+      "station_count": 99,
       "e5": 2.179,
       "e5_cheapest": {
         "brand": "SVG",
@@ -41,10 +41,10 @@
         "place": "Hamburg",
         "price": 2.129
       },
-      "e10": 2.119,
+      "e10": 2.12,
       "e10_cheapest": {
-        "brand": "Freie",
-        "street": "Papenstraße",
+        "brand": "STAR",
+        "street": "Wöhlerstraße",
         "place": "Hamburg",
         "price": 2.079
       },
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 103,
-      "e5": 2.184,
+      "e5": 2.178,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 2.088
       },
-      "e10": 2.125,
+      "e10": 2.119,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -83,7 +83,7 @@
     },
     {
       "name": "Köln",
-      "station_count": 77,
+      "station_count": 76,
       "e5": 2.259,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
@@ -91,14 +91,14 @@
         "place": "Köln",
         "price": 2.189
       },
-      "e10": 2.2,
+      "e10": 2.199,
       "e10_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.129
       },
-      "diesel": 2.281,
+      "diesel": 2.28,
       "diesel_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -133,22 +133,22 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 63,
-      "e5": 2.178,
+      "station_count": 61,
+      "e5": 2.179,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.109
       },
-      "e10": 2.118,
+      "e10": 2.119,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.049
       },
-      "diesel": 2.243,
+      "diesel": 2.244,
       "diesel_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 61,
+      "station_count": 60,
       "e5": 2.206,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -166,7 +166,7 @@
         "place": "Düsseldorf",
         "price": 2.169
       },
-      "e10": 2.146,
+      "e10": 2.147,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -184,14 +184,14 @@
     {
       "name": "Leipzig",
       "station_count": 50,
-      "e5": 2.247,
+      "e5": 2.241,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.199
       },
-      "e10": 2.187,
+      "e10": 2.181,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -216,7 +216,7 @@
         "place": "Dortmund",
         "price": 2.159
       },
-      "e10": 2.125,
+      "e10": 2.124,
       "e10_cheapest": {
         "brand": "HEM",
         "street": "Lindenhorster Str.",
@@ -259,21 +259,21 @@
     {
       "name": "Bremen",
       "station_count": 49,
-      "e5": 2.194,
+      "e5": 2.191,
       "e5_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.159
       },
-      "e10": 2.135,
+      "e10": 2.132,
       "e10_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.099
       },
-      "diesel": 2.235,
+      "diesel": 2.234,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
@@ -284,26 +284,26 @@
     {
       "name": "Dresden",
       "station_count": 36,
-      "e5": 2.241,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.208
+        "price": 2.198
       },
-      "e10": 2.181,
+      "e10": 2.169,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.148
+        "price": 2.138
       },
-      "diesel": 2.289,
+      "diesel": 2.278,
       "diesel_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.268
+        "price": 2.248
       }
     }
   ]
