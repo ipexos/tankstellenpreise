@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T21:54:28+00:00",
+  "updated_at": "2026-08-20T22:15:37+00:00",
   "national_average": {
     "e5": 2.204,
-    "e10": 2.144,
+    "e10": 2.145,
     "diesel": 2.248
   },
   "cities": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 74,
+      "station_count": 71,
       "e5": 2.183,
       "e5_cheapest": {
         "brand": "SVG",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 60,
+      "station_count": 54,
       "e5": 2.18,
       "e5_cheapest": {
         "brand": "V-Markt",
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 42,
-      "e5": 2.258,
+      "station_count": 39,
+      "e5": 2.261,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.189
       },
-      "e10": 2.199,
+      "e10": 2.202,
       "e10_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.129
       },
-      "diesel": 2.279,
+      "diesel": 2.281,
       "diesel_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 32,
-      "e5": 2.182,
+      "station_count": 24,
+      "e5": 2.181,
       "e5_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.129
       },
-      "e10": 2.122,
+      "e10": 2.121,
       "e10_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 34,
-      "e5": 2.21,
+      "station_count": 30,
+      "e5": 2.212,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.169
       },
-      "e10": 2.151,
+      "e10": 2.152,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.109
       },
-      "diesel": 2.27,
+      "diesel": 2.273,
       "diesel_cheapest": {
         "brand": "Freie Tankstelle",
         "street": "Ahnfeldstr.",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 28,
+      "station_count": 26,
       "e5": 2.19,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -248,7 +248,7 @@
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.254,
+      "diesel": 2.255,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
