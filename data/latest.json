@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T20:32:34+00:00",
+  "updated_at": "2026-08-20T20:59:00+00:00",
   "national_average": {
     "e5": 2.202,
     "e10": 2.143,
@@ -66,7 +66,7 @@
         "place": "München",
         "price": 2.088
       },
-      "e10": 2.12,
+      "e10": 2.119,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -283,7 +283,7 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.223,
       "e5_cheapest": {
         "brand": "Supermarkt",
@@ -298,7 +298,7 @@
         "place": "Radebeul",
         "price": 2.129
       },
-      "diesel": 2.268,
+      "diesel": 2.269,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
