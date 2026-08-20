@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19T23:54:54+00:00",
+  "updated_at": "2026-08-20T00:37:50+00:00",
   "national_average": {
-    "e5": 2.205,
+    "e5": 2.206,
     "e10": 2.146,
     "diesel": 2.251
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
+      "station_count": 67,
       "e5": 2.146,
       "e5_cheapest": {
         "brand": "JET",
@@ -58,8 +58,8 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.191,
+      "station_count": 53,
+      "e5": 2.192,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.119
       },
-      "diesel": 2.221,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
-      "e5": 2.192,
+      "station_count": 25,
+      "e5": 2.193,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.159
       },
-      "e10": 2.132,
+      "e10": 2.133,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.099
       },
-      "diesel": 2.252,
+      "diesel": 2.254,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
