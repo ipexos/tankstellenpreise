@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T00:56:56+00:00",
+  "updated_at": "2026-08-21T02:22:01+00:00",
   "national_average": {
     "e5": 2.204,
-    "e10": 2.145,
+    "e10": 2.144,
     "diesel": 2.248
   },
   "cities": [
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 39,
-      "e5": 2.261,
+      "station_count": 40,
+      "e5": 2.26,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.189
       },
-      "e10": 2.202,
+      "e10": 2.201,
       "e10_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.129
       },
-      "diesel": 2.281,
+      "diesel": 2.28,
       "diesel_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.244,
+      "station_count": 27,
+      "e5": 2.241,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.199
       },
-      "e10": 2.185,
+      "e10": 2.182,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.148
       },
-      "diesel": 2.22,
+      "diesel": 2.219,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
-      "e5": 2.191,
+      "station_count": 26,
+      "e5": 2.19,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "e10": 2.131,
+      "e10": 2.13,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.256,
+      "diesel": 2.255,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
