@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:42:40+00:00",
+  "updated_at": "2026-08-21T21:00:37+00:00",
   "national_average": {
     "e5": 2.196,
     "e10": 2.136,
@@ -283,15 +283,15 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
-      "e5": 2.213,
+      "station_count": 24,
+      "e5": 2.214,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.179
       },
-      "e10": 2.153,
+      "e10": 2.154,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
