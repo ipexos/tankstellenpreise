@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T23:56:16+00:00",
+  "updated_at": "2026-08-21T00:56:56+00:00",
   "national_average": {
     "e5": 2.204,
-    "e10": 2.144,
+    "e10": 2.145,
     "diesel": 2.248
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
+      "station_count": 67,
       "e5": 2.155,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.069
       },
-      "diesel": 2.206,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.18,
+      "station_count": 53,
+      "e5": 2.181,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
         "place": "München",
         "price": 2.088
       },
-      "e10": 2.122,
+      "e10": 2.123,
       "e10_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.148
       },
-      "diesel": 2.221,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
-      "e5": 2.19,
+      "station_count": 25,
+      "e5": 2.191,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "e10": 2.13,
+      "e10": 2.131,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.255,
+      "diesel": 2.256,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
