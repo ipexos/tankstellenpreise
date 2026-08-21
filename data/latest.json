@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-21T19:15:43+00:00",
+  "updated_at": "2026-08-21T19:39:25+00:00",
   "national_average": {
-    "e5": 2.195,
-    "e10": 2.135,
+    "e5": 2.193,
+    "e10": 2.134,
     "diesel": 2.23
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 102,
+      "station_count": 100,
       "e5": 2.162,
       "e5_cheapest": {
         "brand": "",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 100,
+      "station_count": 99,
       "e5": 2.175,
       "e5_cheapest": {
         "brand": "SVG",
@@ -41,7 +41,7 @@
         "place": "Hamburg",
         "price": 2.129
       },
-      "e10": 2.115,
+      "e10": 2.116,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Baumeisterstraße",
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 103,
-      "e5": 2.171,
+      "e5": 2.167,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.111,
+      "e10": 2.108,
       "e10_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
@@ -83,8 +83,8 @@
     },
     {
       "name": "Köln",
-      "station_count": 77,
-      "e5": 2.257,
+      "station_count": 76,
+      "e5": 2.256,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -98,12 +98,12 @@
         "place": "Köln",
         "price": 2.149
       },
-      "diesel": 2.249,
+      "diesel": 2.247,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "OLPENER STR.",
-        "place": "KOELN",
-        "price": 2.169
+        "brand": "SH Tankstelle S. Hirlak",
+        "street": "Broichstrasse",
+        "place": "Köln",
+        "price": 2.159
       }
     },
     {
@@ -133,22 +133,22 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 64,
-      "e5": 2.164,
+      "station_count": 62,
+      "e5": 2.166,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.109
       },
-      "e10": 2.104,
+      "e10": 2.106,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.049
       },
-      "diesel": 2.224,
+      "diesel": 2.225,
       "diesel_cheapest": {
         "brand": "SCHARR-Tankstelle",
         "street": "Handwerkstrasse",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 61,
+      "station_count": 60,
       "e5": 2.194,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -166,7 +166,7 @@
         "place": "Düsseldorf",
         "price": 2.149
       },
-      "e10": 2.134,
+      "e10": 2.135,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -184,14 +184,14 @@
     {
       "name": "Leipzig",
       "station_count": 50,
-      "e5": 2.228,
+      "e5": 2.224,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.199
       },
-      "e10": 2.169,
+      "e10": 2.164,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -273,7 +273,7 @@
         "place": "Bremen",
         "price": 2.079
       },
-      "diesel": 2.231,
+      "diesel": 2.23,
       "diesel_cheapest": {
         "brand": "OIL!",
         "street": "Kirchhuchtinger Landstr. 112",
@@ -284,26 +284,26 @@
     {
       "name": "Dresden",
       "station_count": 36,
-      "e5": 2.228,
+      "e5": 2.219,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.198
+        "price": 2.188
       },
-      "e10": 2.168,
+      "e10": 2.159,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.138
+        "price": 2.128
       },
-      "diesel": 2.287,
+      "diesel": 2.28,
       "diesel_cheapest": {
-        "brand": "HEM",
-        "street": "Hansastr.",
+        "brand": "Greenline",
+        "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.259
+        "price": 2.248
       }
     }
   ]
