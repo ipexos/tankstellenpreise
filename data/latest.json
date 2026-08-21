@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-21T22:05:09+00:00",
+  "updated_at": "2026-08-21T22:35:39+00:00",
   "national_average": {
-    "e5": 2.198,
-    "e10": 2.139,
+    "e5": 2.197,
+    "e10": 2.138,
     "diesel": 2.233
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 63,
-      "e5": 2.165,
+      "station_count": 66,
+      "e5": 2.164,
       "e5_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.138
       },
-      "e10": 2.105,
+      "e10": 2.104,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.089
       },
-      "diesel": 2.206,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.224,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -191,7 +191,7 @@
         "place": "Leipzig",
         "price": 2.198
       },
-      "e10": 2.165,
+      "e10": 2.166,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 19,
-      "e5": 2.219,
+      "station_count": 20,
+      "e5": 2.217,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.179
       },
-      "e10": 2.159,
+      "e10": 2.157,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.119
       },
-      "diesel": 2.275,
+      "diesel": 2.273,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
