@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:35:24+00:00",
+  "updated_at": "2026-08-22T09:54:14+00:00",
   "national_average": {
     "e5": 2.173,
     "e10": 2.114,
@@ -9,7 +9,7 @@
     {
       "name": "Berlin",
       "station_count": 105,
-      "e5": 2.144,
+      "e5": 2.143,
       "e5_cheapest": {
         "brand": "bft-Tankstelle",
         "street": "Kapweg",
@@ -59,7 +59,7 @@
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.128,
+      "e5": 2.127,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
@@ -134,7 +134,7 @@
     {
       "name": "Stuttgart",
       "station_count": 71,
-      "e5": 2.155,
+      "e5": 2.154,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "MOTORSTR.",
@@ -223,7 +223,7 @@
         "place": "DORTMUND",
         "price": 2.049
       },
-      "diesel": 2.221,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "WULFSHOFSTR.",
@@ -234,7 +234,7 @@
     {
       "name": "Essen",
       "station_count": 73,
-      "e5": 2.169,
+      "e5": 2.168,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "OTTOSTR.",
@@ -259,7 +259,7 @@
     {
       "name": "Bremen",
       "station_count": 54,
-      "e5": 2.159,
+      "e5": 2.158,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "DUCKWITZSTR.",
@@ -273,7 +273,7 @@
         "place": "BREMEN",
         "price": 2.049
       },
-      "diesel": 2.206,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "DUCKWITZSTR.",
