@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:58:48+00:00",
+  "updated_at": "2026-08-22T01:16:09+00:00",
   "national_average": {
     "e5": 2.198,
     "e10": 2.139,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 65,
+      "station_count": 64,
       "e5": 2.164,
       "e5_cheapest": {
         "brand": "",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.174,
+      "station_count": 53,
+      "e5": 2.175,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Dieselstraße",
         "place": "Unterföhring",
         "price": 2.069
       },
-      "e10": 2.116,
+      "e10": 2.117,
       "e10_cheapest": {
         "brand": "ESSO",
         "street": "EFFNERSTR. 130",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.226,
+      "station_count": 26,
+      "e5": 2.224,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.198
       },
-      "e10": 2.167,
+      "e10": 2.166,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.138
       },
-      "diesel": 2.204,
+      "diesel": 2.203,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
