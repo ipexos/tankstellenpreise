@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:16:09+00:00",
+  "updated_at": "2026-08-22T02:29:29+00:00",
   "national_average": {
     "e5": 2.198,
     "e10": 2.139,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 64,
+      "station_count": 66,
       "e5": 2.164,
       "e5_cheapest": {
         "brand": "",
@@ -16,7 +16,7 @@
         "place": "Berlin",
         "price": 2.138
       },
-      "e10": 2.105,
+      "e10": 2.104,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -48,12 +48,12 @@
         "place": "Hamburg",
         "price": 2.079
       },
-      "diesel": 2.229,
+      "diesel": 2.228,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "SCHLENZIGSTR.",
-        "place": "HAMBURG",
-        "price": 2.189
+        "brand": "SVG",
+        "street": "Bullerdeich",
+        "place": "Hamburg",
+        "price": 2.179
       }
     },
     {
