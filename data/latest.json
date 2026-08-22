@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:39:17+00:00",
+  "updated_at": "2026-08-22T20:57:40+00:00",
   "national_average": {
     "e5": 2.197,
     "e10": 2.137,
@@ -59,7 +59,7 @@
     {
       "name": "München",
       "station_count": 72,
-      "e5": 2.169,
+      "e5": 2.168,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
