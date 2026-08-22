@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-22T21:19:39+00:00",
+  "updated_at": "2026-08-22T21:40:49+00:00",
   "national_average": {
     "e5": 2.199,
     "e10": 2.139,
-    "diesel": 2.23
+    "diesel": 2.229
   },
   "cities": [
     {
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 29,
-      "e5": 2.235,
+      "station_count": 27,
+      "e5": 2.234,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.199
       },
-      "e10": 2.175,
+      "e10": 2.174,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.148
       },
-      "diesel": 2.187,
+      "diesel": 2.186,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
