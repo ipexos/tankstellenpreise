@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:57:49+00:00",
+  "updated_at": "2026-08-22T23:18:54+00:00",
   "national_average": {
     "e5": 2.199,
     "e10": 2.14,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 74,
       "e5": 2.183,
       "e5_cheapest": {
         "brand": "AVIA XPress",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.234,
+      "station_count": 25,
+      "e5": 2.235,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.199
       },
-      "e10": 2.175,
+      "e10": 2.176,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.148
       },
-      "diesel": 2.187,
+      "diesel": 2.188,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
