@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-22T08:40:55+00:00",
+  "updated_at": "2026-08-22T09:02:23+00:00",
   "national_average": {
-    "e5": 2.178,
+    "e5": 2.177,
     "e10": 2.118,
     "diesel": 2.214
   },
@@ -59,21 +59,21 @@
     {
       "name": "München",
       "station_count": 107,
-      "e5": 2.13,
+      "e5": 2.129,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.07,
+      "e10": 2.069,
       "e10_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
         "place": "MUENCHEN",
         "price": 2.009
       },
-      "diesel": 2.206,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Balanstr.",
@@ -84,14 +84,14 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.23,
+      "e5": 2.229,
       "e5_cheapest": {
         "brand": "JET",
         "street": "BERLINER STR.",
         "place": "KOELN",
         "price": 2.149
       },
-      "e10": 2.172,
+      "e10": 2.171,
       "e10_cheapest": {
         "brand": "JET",
         "street": "BERLINER STR.",
@@ -184,21 +184,21 @@
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.191,
+      "e5": 2.187,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.159
       },
-      "e10": 2.131,
+      "e10": 2.127,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.099
       },
-      "diesel": 2.189,
+      "diesel": 2.185,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
