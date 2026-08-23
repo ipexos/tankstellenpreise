@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:27:55+00:00",
+  "updated_at": "2026-08-23T22:47:38+00:00",
   "national_average": {
     "e5": 2.272,
     "e10": 2.213,
@@ -33,22 +33,22 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
-      "e5": 2.274,
+      "station_count": 73,
+      "e5": 2.273,
       "e5_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
         "place": "Hamburg",
         "price": 2.129
       },
-      "e10": 2.22,
+      "e10": 2.219,
       "e10_cheapest": {
         "brand": "Freie",
         "street": "Papenstraße",
         "place": "Hamburg",
         "price": 2.079
       },
-      "diesel": 2.335,
+      "diesel": 2.334,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
