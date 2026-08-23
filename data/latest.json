@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T07:41:03+00:00",
+  "updated_at": "2026-08-23T08:01:18+00:00",
   "national_average": {
-    "e5": 2.186,
-    "e10": 2.126,
+    "e5": 2.185,
+    "e10": 2.125,
     "diesel": 2.218
   },
   "cities": [
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.049
       },
-      "diesel": 2.192,
+      "diesel": 2.191,
       "diesel_cheapest": {
         "brand": "bft-Tankstelle",
         "street": "Kapweg",
@@ -48,7 +48,7 @@
         "place": "Hamburg",
         "price": 2.069
       },
-      "diesel": 2.227,
+      "diesel": 2.226,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 105,
-      "e5": 2.145,
+      "e5": 2.144,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.085,
+      "e10": 2.084,
       "e10_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
@@ -84,14 +84,14 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.246,
+      "e5": 2.245,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
         "place": "Köln-Marsdorf",
         "price": 2.208
       },
-      "e10": 2.186,
+      "e10": 2.185,
       "e10_cheapest": {
         "brand": "SB",
         "street": "Berrenratherstrasse.",
@@ -173,32 +173,32 @@
         "place": "Düsseldorf",
         "price": 2.089
       },
-      "diesel": 2.243,
+      "diesel": 2.242,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "WORRINGER STR.",
-        "place": "DUESSELDORF",
-        "price": 2.219
+        "brand": "",
+        "street": "Düsseldorfer Str.",
+        "place": "Meerbusch",
+        "price": 2.209
       }
     },
     {
       "name": "Leipzig",
-      "station_count": 56,
-      "e5": 2.216,
+      "station_count": 57,
+      "e5": 2.211,
       "e5_cheapest": {
-        "brand": "Q1",
-        "street": "Georg-Schumann-Straße",
+        "brand": "Globus SB Warenhaus",
+        "street": "An der Passage",
         "place": "Leipzig",
-        "price": 2.189
+        "price": 2.188
       },
-      "e10": 2.156,
+      "e10": 2.152,
       "e10_cheapest": {
-        "brand": "Q1",
-        "street": "Georg-Schumann-Straße",
+        "brand": "Globus SB Warenhaus",
+        "street": "An der Passage",
         "place": "Leipzig",
-        "price": 2.129
+        "price": 2.128
       },
-      "diesel": 2.179,
+      "diesel": 2.177,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -208,7 +208,7 @@
     },
     {
       "name": "Dortmund",
-      "station_count": 65,
+      "station_count": 67,
       "e5": 2.178,
       "e5_cheapest": {
         "brand": "HEM",
@@ -223,7 +223,7 @@
         "place": "Dortmund",
         "price": 2.059
       },
-      "diesel": 2.228,
+      "diesel": 2.227,
       "diesel_cheapest": {
         "brand": "Tankstation Oespel 6-22h",
         "street": "Julius-Vogel-Str.",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 64,
-      "e5": 2.177,
+      "station_count": 68,
+      "e5": 2.176,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.149
       },
-      "e10": 2.117,
+      "e10": 2.116,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.089
       },
-      "diesel": 2.207,
+      "diesel": 2.206,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Moltkestraße",
@@ -259,14 +259,14 @@
     {
       "name": "Bremen",
       "station_count": 51,
-      "e5": 2.165,
+      "e5": 2.164,
       "e5_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.129
       },
-      "e10": 2.106,
+      "e10": 2.105,
       "e10_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
