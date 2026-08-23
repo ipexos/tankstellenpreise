@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:11:42+00:00",
+  "updated_at": "2026-08-23T19:33:14+00:00",
   "national_average": {
     "e5": 2.263,
     "e10": 2.204,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 101,
-      "e5": 2.278,
+      "station_count": 99,
+      "e5": 2.279,
       "e5_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.138
       },
-      "e10": 2.218,
+      "e10": 2.219,
       "e10_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.108
       },
-      "diesel": 2.326,
+      "diesel": 2.327,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -59,14 +59,14 @@
     {
       "name": "München",
       "station_count": 102,
-      "e5": 2.226,
+      "e5": 2.224,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.167,
+      "e10": 2.165,
       "e10_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
@@ -123,25 +123,25 @@
         "place": "Offenbach",
         "price": 2.119
       },
-      "diesel": 2.344,
+      "diesel": 2.343,
       "diesel_cheapest": {
-        "brand": "Calpam Express",
-        "street": "Waldstr",
+        "brand": "OIL!",
+        "street": "Sprendlinger Landstr. 173",
         "place": "Offenbach",
-        "price": 2.159
+        "price": 2.149
       }
     },
     {
       "name": "Stuttgart",
-      "station_count": 63,
-      "e5": 2.267,
+      "station_count": 62,
+      "e5": 2.268,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.109
       },
-      "e10": 2.206,
+      "e10": 2.208,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
@@ -284,26 +284,26 @@
     {
       "name": "Dresden",
       "station_count": 36,
-      "e5": 2.262,
+      "e5": 2.257,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.218
+        "price": 2.208
       },
-      "e10": 2.202,
+      "e10": 2.197,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.158
+        "price": 2.148
       },
-      "diesel": 2.316,
+      "diesel": 2.311,
       "diesel_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
-        "price": 2.278
+        "price": 2.268
       }
     }
   ]
