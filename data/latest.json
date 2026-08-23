@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-23T20:29:38+00:00",
+  "updated_at": "2026-08-23T20:50:35+00:00",
   "national_average": {
     "e5": 2.265,
-    "e10": 2.206,
-    "diesel": 2.302
+    "e10": 2.207,
+    "diesel": 2.303
   },
   "cities": [
     {
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 72,
-      "e5": 2.221,
+      "station_count": 70,
+      "e5": 2.224,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.162,
+      "e10": 2.165,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 2.009
       },
-      "diesel": 2.327,
+      "diesel": 2.329,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 33,
+      "station_count": 32,
       "e5": 2.306,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 33,
-      "e5": 2.244,
+      "station_count": 32,
+      "e5": 2.245,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "e10": 2.184,
+      "e10": 2.185,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.265,
+      "diesel": 2.266,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
-      "e5": 2.249,
+      "station_count": 24,
+      "e5": 2.25,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.199
       },
-      "e10": 2.189,
+      "e10": 2.19,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.139
       },
-      "diesel": 2.306,
+      "diesel": 2.307,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
