@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:47:38+00:00",
+  "updated_at": "2026-08-23T23:01:28+00:00",
   "national_average": {
     "e5": 2.272,
     "e10": 2.213,
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.308,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Leipzig",
         "price": 2.228
       },
-      "diesel": 2.197,
+      "diesel": 2.199,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
