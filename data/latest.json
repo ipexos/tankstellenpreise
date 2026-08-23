@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-23T08:36:21+00:00",
+  "updated_at": "2026-08-23T09:01:02+00:00",
   "national_average": {
     "e5": 2.183,
-    "e10": 2.124,
-    "diesel": 2.217
+    "e10": 2.123,
+    "diesel": 2.216
   },
   "cities": [
     {
@@ -48,7 +48,7 @@
         "place": "Hamburg",
         "price": 2.069
       },
-      "diesel": 2.225,
+      "diesel": 2.224,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -73,7 +73,7 @@
         "place": "MUENCHEN",
         "price": 2.009
       },
-      "diesel": 2.207,
+      "diesel": 2.205,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -84,7 +84,7 @@
     {
       "name": "Köln",
       "station_count": 80,
-      "e5": 2.242,
+      "e5": 2.241,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Max-Planck Straße",
@@ -93,9 +93,9 @@
       },
       "e10": 2.182,
       "e10_cheapest": {
-        "brand": "SB",
-        "street": "Berrenratherstrasse.",
-        "place": "Huerth",
+        "brand": "STAR",
+        "street": "Berrenrather Straße",
+        "place": "Köln",
         "price": 2.149
       },
       "diesel": 2.232,
@@ -173,28 +173,28 @@
         "place": "Düsseldorf",
         "price": 2.089
       },
-      "diesel": 2.24,
+      "diesel": 2.239,
       "diesel_cheapest": {
-        "brand": "JET",
-        "street": "WORRINGER STR.",
-        "place": "DUESSELDORF",
-        "price": 2.209
+        "brand": "Markant (Tankautomat)",
+        "street": "Oerschbachstr.",
+        "place": "Düsseldorf",
+        "price": 2.199
       }
     },
     {
       "name": "Leipzig",
       "station_count": 57,
-      "e5": 2.202,
+      "e5": 2.198,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.179
       },
-      "e10": 2.143,
+      "e10": 2.138,
       "e10_cheapest": {
-        "brand": "Globus SB Warenhaus",
-        "street": "An der Passage",
+        "brand": "Greenline",
+        "street": "Mockauer Str.",
         "place": "Leipzig",
         "price": 2.128
       },
@@ -273,7 +273,7 @@
         "place": "Stuhr",
         "price": 2.069
       },
-      "diesel": 2.22,
+      "diesel": 2.219,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
