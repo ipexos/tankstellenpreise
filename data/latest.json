@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-23T19:49:22+00:00",
+  "updated_at": "2026-08-23T20:00:54+00:00",
   "national_average": {
     "e5": 2.263,
-    "e10": 2.204,
-    "diesel": 2.298
+    "e10": 2.205,
+    "diesel": 2.3
   },
   "cities": [
     {
@@ -39,7 +39,7 @@
         "brand": "SVG",
         "street": "Bullerdeich",
         "place": "Hamburg",
-        "price": 2.139
+        "price": 2.129
       },
       "e10": 2.211,
       "e10_cheapest": {
@@ -48,18 +48,18 @@
         "place": "Hamburg",
         "price": 2.079
       },
-      "diesel": 2.328,
+      "diesel": 2.327,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
         "place": "Hamburg",
-        "price": 2.199
+        "price": 2.179
       }
     },
     {
       "name": "München",
       "station_count": 102,
-      "e5": 2.223,
+      "e5": 2.222,
       "e5_cheapest": {
         "brand": "JET",
         "street": "TRUDERINGER STR.",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 62,
-      "e5": 2.268,
+      "station_count": 61,
+      "e5": 2.269,
       "e5_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
         "place": "Stuttgart",
         "price": 2.109
       },
-      "e10": 2.208,
+      "e10": 2.209,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 49,
-      "e5": 2.305,
+      "station_count": 33,
+      "e5": 2.306,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.288
       },
-      "e10": 2.246,
+      "e10": 2.247,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.228
       },
-      "diesel": 2.191,
+      "diesel": 2.193,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -208,90 +208,90 @@
     },
     {
       "name": "Dortmund",
-      "station_count": 56,
-      "e5": 2.213,
+      "station_count": 36,
+      "e5": 2.226,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Wittener Straße",
         "place": "Dortmund",
         "price": 2.139
       },
-      "e10": 2.155,
+      "e10": 2.17,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Wittener Straße",
         "place": "Dortmund",
         "price": 2.079
       },
-      "diesel": 2.278,
+      "diesel": 2.292,
       "diesel_cheapest": {
-        "brand": "Tankstation Oespel 6-22h",
-        "street": "Julius-Vogel-Str.",
+        "brand": "STAR",
+        "street": "Wittener Straße",
         "place": "Dortmund",
-        "price": 2.199
+        "price": 2.209
       }
     },
     {
       "name": "Essen",
-      "station_count": 56,
-      "e5": 2.23,
+      "station_count": 33,
+      "e5": 2.244,
       "e5_cheapest": {
-        "brand": "TotalEnergies",
-        "street": "Prosperstr.",
-        "place": "Bottrop",
+        "brand": "Markant (Tankautomat)",
+        "street": "Zum Bauverein",
+        "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "e10": 2.17,
+      "e10": 2.184,
       "e10_cheapest": {
-        "brand": "TotalEnergies",
-        "street": "Prosperstr.",
-        "place": "Bottrop",
+        "brand": "Markant (Tankautomat)",
+        "street": "Zum Bauverein",
+        "place": "Gelsenkirchen",
         "price": 2.109
       },
-      "diesel": 2.249,
+      "diesel": 2.265,
       "diesel_cheapest": {
-        "brand": "HEM",
-        "street": "Am Deimelsberg",
+        "brand": "STAR",
+        "street": "Bochumer Landstraße",
         "place": "Essen",
         "price": 2.179
       }
     },
     {
       "name": "Bremen",
-      "station_count": 47,
-      "e5": 2.217,
+      "station_count": 29,
+      "e5": 2.202,
       "e5_cheapest": {
-        "brand": "OIL!",
-        "street": "Kirchhuchtinger Landstr. 112",
+        "brand": "HEM",
+        "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.129
       },
-      "e10": 2.157,
+      "e10": 2.143,
       "e10_cheapest": {
-        "brand": "OIL!",
-        "street": "Kirchhuchtinger Landstr. 112",
+        "brand": "HEM",
+        "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.069
       },
-      "diesel": 2.266,
+      "diesel": 2.253,
       "diesel_cheapest": {
-        "brand": "OIL!",
-        "street": "Kirchhuchtinger Landstr. 112",
+        "brand": "HEM",
+        "street": "Kirchhuchtinger Landstr.",
         "place": "Bremen",
         "price": 2.179
       }
     },
     {
       "name": "Dresden",
-      "station_count": 36,
-      "e5": 2.254,
+      "station_count": 25,
+      "e5": 2.25,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.199
       },
-      "e10": 2.194,
+      "e10": 2.19,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
