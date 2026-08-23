@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:03:41+00:00",
+  "updated_at": "2026-08-23T21:30:10+00:00",
   "national_average": {
     "e5": 2.271,
     "e10": 2.212,
@@ -66,7 +66,7 @@
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.169,
+      "e10": 2.168,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
@@ -134,21 +134,21 @@
     {
       "name": "Stuttgart",
       "station_count": 32,
-      "e5": 2.267,
+      "e5": 2.266,
       "e5_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.149
       },
-      "e10": 2.207,
+      "e10": 2.206,
       "e10_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.089
       },
-      "diesel": 2.346,
+      "diesel": 2.345,
       "diesel_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
@@ -223,7 +223,7 @@
         "place": "DORTMUND",
         "price": 2.109
       },
-      "diesel": 2.295,
+      "diesel": 2.294,
       "diesel_cheapest": {
         "brand": "Q1",
         "street": "Deusener Straße",
