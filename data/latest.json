@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:34:13+00:00",
+  "updated_at": "2026-08-23T09:54:50+00:00",
   "national_average": {
     "e5": 2.179,
     "e10": 2.119,
@@ -141,7 +141,7 @@
         "place": "Stuttgart",
         "price": 2.099
       },
-      "e10": 2.095,
+      "e10": 2.094,
       "e10_cheapest": {
         "brand": "RAN",
         "street": "Engelbergstr.",
@@ -223,7 +223,7 @@
         "place": "Dortmund",
         "price": 2.059
       },
-      "diesel": 2.223,
+      "diesel": 2.222,
       "diesel_cheapest": {
         "brand": "Markant",
         "street": "Bornstr.",
@@ -284,7 +284,7 @@
     {
       "name": "Dresden",
       "station_count": 51,
-      "e5": 2.177,
+      "e5": 2.176,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
