@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:30:10+00:00",
+  "updated_at": "2026-08-23T21:48:09+00:00",
   "national_average": {
     "e5": 2.271,
     "e10": 2.212,
@@ -8,22 +8,22 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.287,
+      "station_count": 64,
+      "e5": 2.291,
       "e5_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.138
       },
-      "e10": 2.228,
+      "e10": 2.232,
       "e10_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
         "place": "Berlin",
         "price": 2.108
       },
-      "diesel": 2.337,
+      "diesel": 2.341,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 62,
-      "e5": 2.227,
+      "station_count": 61,
+      "e5": 2.228,
       "e5_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 2.069
       },
-      "e10": 2.168,
+      "e10": 2.17,
       "e10_cheapest": {
         "brand": "JET",
         "street": "KARL-MARX-RING",
         "place": "MUENCHEN",
         "price": 2.009
       },
-      "diesel": 2.334,
+      "diesel": 2.335,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 28,
-      "e5": 2.307,
+      "station_count": 26,
+      "e5": 2.304,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.288
       },
-      "e10": 2.248,
+      "e10": 2.244,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.228
       },
-      "diesel": 2.197,
+      "diesel": 2.186,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 18,
-      "e5": 2.262,
+      "station_count": 17,
+      "e5": 2.265,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.199
       },
-      "e10": 2.202,
+      "e10": 2.205,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.139
       },
-      "diesel": 2.318,
+      "diesel": 2.321,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
