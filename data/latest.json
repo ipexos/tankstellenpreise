@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:01:28+00:00",
+  "updated_at": "2026-08-23T23:28:37+00:00",
   "national_average": {
     "e5": 2.272,
     "e10": 2.213,
@@ -134,21 +134,21 @@
     {
       "name": "Stuttgart",
       "station_count": 25,
-      "e5": 2.255,
+      "e5": 2.254,
       "e5_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.149
       },
-      "e10": 2.195,
+      "e10": 2.194,
       "e10_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.089
       },
-      "diesel": 2.336,
+      "diesel": 2.335,
       "diesel_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
