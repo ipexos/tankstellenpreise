@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:22:52+00:00",
+  "updated_at": "2026-08-24T22:48:41+00:00",
   "national_average": {
     "e5": 2.198,
     "e10": 2.138,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.174,
       "e5_cheapest": {
         "brand": "SVG",
