@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-24T19:37:00+00:00",
+  "updated_at": "2026-08-24T19:58:58+00:00",
   "national_average": {
-    "e5": 2.193,
-    "e10": 2.134,
+    "e5": 2.192,
+    "e10": 2.133,
     "diesel": 2.236
   },
   "cities": [
     {
       "name": "Berlin",
       "station_count": 100,
-      "e5": 2.186,
+      "e5": 2.184,
       "e5_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "Bessemer Str.",
         "place": "Berlin",
         "price": 2.139
       },
-      "e10": 2.127,
+      "e10": 2.124,
       "e10_cheapest": {
         "brand": "Supermarkt-Tankstelle",
         "street": "Bessemer Str.",
         "place": "Berlin",
         "price": 2.079
       },
-      "diesel": 2.224,
+      "diesel": 2.223,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
@@ -59,21 +59,21 @@
     {
       "name": "München",
       "station_count": 103,
-      "e5": 2.17,
+      "e5": 2.167,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Kreillerstr.",
         "place": "München",
         "price": 2.059
       },
-      "e10": 2.111,
+      "e10": 2.108,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 1.999
       },
-      "diesel": 2.231,
+      "diesel": 2.23,
       "diesel_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 58,
+      "station_count": 57,
       "e5": 2.212,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 63,
+      "station_count": 62,
       "e5": 2.159,
       "e5_cheapest": {
         "brand": "RAN",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 60,
+      "station_count": 59,
       "e5": 2.181,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -173,7 +173,7 @@
         "place": "Düsseldorf",
         "price": 2.079
       },
-      "diesel": 2.234,
+      "diesel": 2.233,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -234,24 +234,24 @@
     {
       "name": "Essen",
       "station_count": 58,
-      "e5": 2.176,
+      "e5": 2.175,
       "e5_cheapest": {
         "brand": "SB",
         "street": "Steeler Str.",
         "place": "Essen",
         "price": 2.159
       },
-      "e10": 2.116,
+      "e10": 2.115,
       "e10_cheapest": {
         "brand": "SB",
         "street": "Steeler Str.",
         "place": "Essen",
         "price": 2.099
       },
-      "diesel": 2.239,
+      "diesel": 2.237,
       "diesel_cheapest": {
-        "brand": "OIL!",
-        "street": "Von-Ossietzky-Ring 1",
+        "brand": "HEM",
+        "street": "Am Deimelsberg",
         "place": "Essen",
         "price": 2.199
       }
@@ -259,14 +259,14 @@
     {
       "name": "Bremen",
       "station_count": 49,
-      "e5": 2.177,
+      "e5": 2.176,
       "e5_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.149
       },
-      "e10": 2.118,
+      "e10": 2.117,
       "e10_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
@@ -284,21 +284,21 @@
     {
       "name": "Dresden",
       "station_count": 36,
-      "e5": 2.265,
+      "e5": 2.259,
       "e5_cheapest": {
-        "brand": "Greenline",
-        "street": "Großenhainer Str.",
-        "place": "Dresden",
-        "price": 2.238
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.229
       },
-      "e10": 2.205,
+      "e10": 2.199,
       "e10_cheapest": {
-        "brand": "Greenline",
-        "street": "Großenhainer Str.",
-        "place": "Dresden",
-        "price": 2.178
+        "brand": "Supermarkt",
+        "street": "Weintraubenstr.",
+        "place": "Radebeul",
+        "price": 2.169
       },
-      "diesel": 2.311,
+      "diesel": 2.31,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Reicker Straße",
