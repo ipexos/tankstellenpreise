@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:48:41+00:00",
+  "updated_at": "2026-08-24T23:09:27+00:00",
   "national_average": {
     "e5": 2.198,
     "e10": 2.138,
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.223,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
