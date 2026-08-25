@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-24T23:50:55+00:00",
+  "updated_at": "2026-08-25T00:24:14+00:00",
   "national_average": {
     "e5": 2.198,
     "e10": 2.139,
-    "diesel": 2.24
+    "diesel": 2.241
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 66,
-      "e5": 2.186,
+      "station_count": 67,
+      "e5": 2.185,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
+      "station_count": 29,
       "e5": 2.187,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -166,7 +166,7 @@
         "place": "Düsseldorf",
         "price": 2.139
       },
-      "e10": 2.129,
+      "e10": 2.13,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.224,
+      "station_count": 20,
+      "e5": 2.226,
       "e5_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
         "place": "Markkleeberg",
         "price": 2.189
       },
-      "e10": 2.165,
+      "e10": 2.167,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.138
       },
-      "diesel": 2.205,
+      "diesel": 2.206,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.181,
+      "station_count": 24,
+      "e5": 2.182,
       "e5_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.149
       },
-      "e10": 2.122,
+      "e10": 2.123,
       "e10_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.089
       },
-      "diesel": 2.23,
+      "diesel": 2.231,
       "diesel_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
