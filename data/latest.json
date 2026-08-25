@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-25T23:03:30+00:00",
+  "updated_at": "2026-08-25T23:33:00+00:00",
   "national_average": {
-    "e5": 2.179,
+    "e5": 2.18,
     "e10": 2.121,
     "diesel": 2.21
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
-      "e5": 2.147,
+      "station_count": 66,
+      "e5": 2.148,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Siegfriedstraße",
         "place": "Berlin",
         "price": 2.119
       },
-      "e10": 2.088,
+      "e10": 2.089,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Siegfriedstraße",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.184,
+      "station_count": 24,
+      "e5": 2.185,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.158
       },
-      "e10": 2.125,
+      "e10": 2.126,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
