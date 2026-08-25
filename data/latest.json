@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:31:25+00:00",
+  "updated_at": "2026-08-25T20:57:29+00:00",
   "national_average": {
     "e5": 2.178,
     "e10": 2.119,
@@ -66,7 +66,7 @@
         "place": "München",
         "price": 2.059
       },
-      "e10": 2.096,
+      "e10": 2.095,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -283,15 +283,15 @@
     },
     {
       "name": "Dresden",
-      "station_count": 25,
-      "e5": 2.233,
+      "station_count": 24,
+      "e5": 2.234,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.199
       },
-      "e10": 2.173,
+      "e10": 2.174,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
