@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01T21:25:23+00:00",
+  "updated_at": "2026-09-01T23:26:34+00:00",
   "national_average": {
-    "e5": 2.246,
+    "e5": 2.247,
     "e10": 2.187,
     "diesel": 2.214
   },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 74,
+      "station_count": 72,
       "e5": 2.27,
       "e5_cheapest": {
         "brand": "SVG",
@@ -48,7 +48,7 @@
         "place": "HAMBURG",
         "price": 2.149
       },
-      "diesel": 2.221,
+      "diesel": 2.222,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 62,
-      "e5": 2.18,
+      "station_count": 54,
+      "e5": 2.182,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 2.069
       },
-      "e10": 2.119,
+      "e10": 2.121,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -83,15 +83,15 @@
     },
     {
       "name": "Köln",
-      "station_count": 42,
-      "e5": 2.244,
+      "station_count": 39,
+      "e5": 2.245,
       "e5_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
         "place": "Köln",
         "price": 2.209
       },
-      "e10": 2.184,
+      "e10": 2.185,
       "e10_cheapest": {
         "brand": "SH Tankstelle S. Hirlak",
         "street": "Broichstrasse",
@@ -108,8 +108,8 @@
     },
     {
       "name": "Frankfurt",
-      "station_count": 37,
-      "e5": 2.265,
+      "station_count": 36,
+      "e5": 2.266,
       "e5_cheapest": {
         "brand": "SB Tankstelle",
         "street": "Senefelder Str.",
@@ -133,15 +133,15 @@
     },
     {
       "name": "Stuttgart",
-      "station_count": 32,
-      "e5": 2.199,
+      "station_count": 24,
+      "e5": 2.197,
       "e5_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
         "place": "Stuttgart",
         "price": 2.119
       },
-      "e10": 2.139,
+      "e10": 2.137,
       "e10_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
@@ -158,22 +158,22 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 34,
-      "e5": 2.249,
+      "station_count": 30,
+      "e5": 2.254,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.189
       },
-      "e10": 2.19,
+      "e10": 2.195,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
         "place": "Düsseldorf",
         "price": 2.129
       },
-      "diesel": 2.221,
+      "diesel": 2.223,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 28,
+      "station_count": 25,
       "e5": 2.295,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 28,
-      "e5": 2.246,
+      "station_count": 26,
+      "e5": 2.25,
       "e5_cheapest": {
-        "brand": "JET",
-        "street": "SCHWARZMUEHLENSTR.",
-        "place": "GELSENKIRCHEN",
+        "brand": "ARAL",
+        "street": "Ernestinenstraße",
+        "place": "Essen",
+        "price": 2.199
+      },
+      "e10": 2.19,
+      "e10_cheapest": {
+        "brand": "ARAL",
+        "street": "Ernestinenstraße",
+        "place": "Essen",
         "price": 2.139
       },
-      "e10": 2.186,
-      "e10_cheapest": {
-        "brand": "JET",
-        "street": "SCHWARZMUEHLENSTR.",
-        "place": "GELSENKIRCHEN",
-        "price": 2.079
-      },
-      "diesel": 2.2,
+      "diesel": 2.202,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
