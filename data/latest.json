@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-01T23:26:34+00:00",
+  "updated_at": "2026-09-02T01:11:52+00:00",
   "national_average": {
     "e5": 2.247,
-    "e10": 2.187,
+    "e10": 2.188,
     "diesel": 2.214
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
+      "station_count": 66,
       "e5": 2.262,
       "e5_cheapest": {
         "brand": "",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.182,
+      "station_count": 53,
+      "e5": 2.183,
       "e5_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
         "place": "München",
         "price": 2.069
       },
-      "e10": 2.121,
+      "e10": 2.123,
       "e10_cheapest": {
         "brand": "ARAL",
         "street": "Wasserburger Landstr.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.295,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.209
       },
-      "diesel": 2.215,
+      "diesel": 2.214,
       "diesel_cheapest": {
         "brand": "TS am Marktkauf",
         "street": "Städtelner Str.",
