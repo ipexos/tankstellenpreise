@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:35:21+00:00",
+  "updated_at": "2026-09-03T00:35:29+00:00",
   "national_average": {
     "e5": 2.273,
     "e10": 2.213,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.29,
       "e5_cheapest": {
         "brand": "SVG",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.179,
+      "station_count": 53,
+      "e5": 2.18,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.048
       },
-      "e10": 2.12,
+      "e10": 2.121,
       "e10_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
         "place": "München",
         "price": 2.008
       },
-      "diesel": 2.269,
+      "diesel": 2.267,
       "diesel_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 24,
       "e5": 2.343,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.249
       },
-      "diesel": 2.3,
+      "diesel": 2.301,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 26,
+      "station_count": 25,
       "e5": 2.269,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -248,7 +248,7 @@
         "place": "Gelsenkirchen",
         "price": 2.169
       },
-      "diesel": 2.292,
+      "diesel": 2.293,
       "diesel_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
