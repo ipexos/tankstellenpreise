@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-04T22:32:28+00:00",
+  "updated_at": "2026-09-05T00:19:42+00:00",
   "national_average": {
     "e5": 2.301,
     "e10": 2.242,
-    "diesel": 2.291
+    "diesel": 2.292
   },
   "cities": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 73,
       "e5": 2.319,
       "e5_cheapest": {
         "brand": "SVG",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
+      "station_count": 29,
       "e5": 2.306,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.349,
+      "station_count": 20,
+      "e5": 2.351,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.319
       },
-      "e10": 2.29,
+      "e10": 2.292,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.259
       },
-      "diesel": 2.277,
+      "diesel": 2.279,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.307,
+      "station_count": 23,
+      "e5": 2.309,
       "e5_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.279
       },
-      "e10": 2.247,
+      "e10": 2.249,
       "e10_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.219
       },
-      "diesel": 2.28,
+      "diesel": 2.282,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
