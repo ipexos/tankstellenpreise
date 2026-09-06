@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:31:08+00:00",
+  "updated_at": "2026-09-06T00:10:16+00:00",
   "national_average": {
     "e5": 2.296,
     "e10": 2.237,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 72,
+      "station_count": 74,
       "e5": 2.309,
       "e5_cheapest": {
         "brand": "SVG",
@@ -41,14 +41,14 @@
         "place": "Hamburg",
         "price": 2.239
       },
-      "e10": 2.25,
+      "e10": 2.251,
       "e10_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
         "place": "Hamburg",
         "price": 2.199
       },
-      "diesel": 2.276,
+      "diesel": 2.277,
       "diesel_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
+      "station_count": 29,
       "e5": 2.305,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.342,
+      "station_count": 20,
+      "e5": 2.343,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.309
       },
-      "e10": 2.283,
+      "e10": 2.284,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.249
       },
-      "diesel": 2.278,
+      "diesel": 2.281,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,22 +258,22 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
-      "e5": 2.293,
+      "station_count": 23,
+      "e5": 2.296,
       "e5_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.259
       },
-      "e10": 2.234,
+      "e10": 2.236,
       "e10_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
         "place": "Stuhr",
         "price": 2.199
       },
-      "diesel": 2.275,
+      "diesel": 2.276,
       "diesel_cheapest": {
         "brand": "RATIO",
         "street": "Henleinstr.",
