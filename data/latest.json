@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:06:15+00:00",
+  "updated_at": "2026-09-10T00:08:09+00:00",
   "national_average": {
     "e5": 2.3,
     "e10": 2.24,
@@ -8,8 +8,8 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 65,
-      "e5": 2.304,
+      "station_count": 68,
+      "e5": 2.303,
       "e5_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.229
       },
-      "diesel": 2.302,
+      "diesel": 2.301,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.314,
       "e5_cheapest": {
         "brand": "Hoyer",
@@ -41,7 +41,7 @@
         "place": "Hamburg",
         "price": 2.279
       },
-      "e10": 2.256,
+      "e10": 2.255,
       "e10_cheapest": {
         "brand": "Hoyer",
         "street": "Spaldingstr.",
@@ -158,8 +158,8 @@
     },
     {
       "name": "Düsseldorf",
-      "station_count": 30,
-      "e5": 2.306,
+      "station_count": 29,
+      "e5": 2.307,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -173,7 +173,7 @@
         "place": "Düsseldorf",
         "price": 2.209
       },
-      "diesel": 2.314,
+      "diesel": 2.315,
       "diesel_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Oerschbachstr.",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.342,
+      "station_count": 20,
+      "e5": 2.343,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.319
       },
-      "e10": 2.283,
+      "e10": 2.284,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.259
       },
-      "diesel": 2.297,
+      "diesel": 2.298,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Bremen",
-      "station_count": 25,
+      "station_count": 24,
       "e5": 2.309,
       "e5_cheapest": {
         "brand": "RATIO",
@@ -273,7 +273,7 @@
         "place": "Stuhr",
         "price": 2.229
       },
-      "diesel": 2.299,
+      "diesel": 2.3,
       "diesel_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 17,
-      "e5": 2.35,
+      "station_count": 18,
+      "e5": 2.349,
       "e5_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.319
       },
-      "e10": 2.29,
+      "e10": 2.289,
       "e10_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
         "place": "Radebeul",
         "price": 2.259
       },
-      "diesel": 2.355,
+      "diesel": 2.354,
       "diesel_cheapest": {
         "brand": "Supermarkt",
         "street": "Weintraubenstr.",
