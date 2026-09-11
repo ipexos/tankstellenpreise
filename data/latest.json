@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:26:36+00:00",
+  "updated_at": "2026-09-11T01:18:27+00:00",
   "national_average": {
     "e5": 2.275,
     "e10": 2.217,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
+      "station_count": 66,
       "e5": 2.279,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -23,7 +23,7 @@
         "place": "Berlin",
         "price": 2.199
       },
-      "diesel": 2.316,
+      "diesel": 2.315,
       "diesel_cheapest": {
         "brand": "",
         "street": "Tempelhofer Weg",
@@ -34,7 +34,7 @@
     {
       "name": "Hamburg",
       "station_count": 72,
-      "e5": 2.303,
+      "e5": 2.302,
       "e5_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -58,8 +58,8 @@
     },
     {
       "name": "München",
-      "station_count": 54,
-      "e5": 2.227,
+      "station_count": 53,
+      "e5": 2.228,
       "e5_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
+      "station_count": 26,
       "e5": 2.333,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -259,21 +259,21 @@
     {
       "name": "Bremen",
       "station_count": 25,
-      "e5": 2.284,
+      "e5": 2.283,
       "e5_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.269
       },
-      "e10": 2.224,
+      "e10": 2.223,
       "e10_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
         "place": "Bremen",
         "price": 2.209
       },
-      "diesel": 2.316,
+      "diesel": 2.315,
       "diesel_cheapest": {
         "brand": "BMÖ Xpress",
         "street": "Stresemannstraße",
