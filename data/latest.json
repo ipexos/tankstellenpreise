@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:21:51+00:00",
+  "updated_at": "2026-09-17T00:39:44+00:00",
   "national_average": {
     "e5": 2.355,
     "e10": 2.295,
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 55,
+      "station_count": 54,
       "e5": 2.269,
       "e5_cheapest": {
         "brand": "",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 24,
       "e5": 2.383,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.299
       },
-      "diesel": 2.44,
+      "diesel": 2.441,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
-      "e5": 2.349,
+      "station_count": 24,
+      "e5": 2.35,
       "e5_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
         "price": 2.309
       },
-      "e10": 2.289,
+      "e10": 2.29,
       "e10_cheapest": {
         "brand": "STAR",
         "street": "Bochumer Landstraße",
         "place": "Essen",
         "price": 2.249
       },
-      "diesel": 2.42,
+      "diesel": 2.421,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
