@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-19T22:59:17+00:00",
+  "updated_at": "2026-09-20T00:46:48+00:00",
   "national_average": {
     "e5": 2.295,
     "e10": 2.237,
-    "diesel": 2.407
+    "diesel": 2.408
   },
   "cities": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 74,
       "e5": 2.304,
       "e5_cheapest": {
         "brand": "SVG",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 56,
+      "station_count": 55,
       "e5": 2.243,
       "e5_cheapest": {
         "brand": "ELAN",
@@ -66,14 +66,14 @@
         "place": "Unterhaching",
         "price": 2.209
       },
-      "e10": 2.186,
+      "e10": 2.187,
       "e10_cheapest": {
         "brand": "ELAN",
         "street": "Muenchner Str.",
         "place": "Unterhaching",
         "price": 2.149
       },
-      "diesel": 2.37,
+      "diesel": 2.371,
       "diesel_cheapest": {
         "brand": "ELAN",
         "street": "Muenchner Str.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 24,
       "e5": 2.313,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -198,7 +198,7 @@
         "place": "Wachau",
         "price": 2.229
       },
-      "diesel": 2.393,
+      "diesel": 2.394,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,8 +233,8 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
-      "e5": 2.287,
+      "station_count": 24,
+      "e5": 2.288,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
@@ -248,7 +248,7 @@
         "place": "Gelsenkirchen",
         "price": 2.209
       },
-      "diesel": 2.397,
+      "diesel": 2.398,
       "diesel_cheapest": {
         "brand": "Markant",
         "street": "Bottroper Str.",
