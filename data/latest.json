@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:43:48+00:00",
+  "updated_at": "2026-09-25T00:52:28+00:00",
   "national_average": {
     "e5": 2.297,
     "e10": 2.238,
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 56,
+      "station_count": 55,
       "e5": 2.225,
       "e5_cheapest": {
         "brand": "ALLGUTH",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
-      "e5": 2.313,
+      "station_count": 24,
+      "e5": 2.312,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
         "place": "Wachau",
         "price": 2.279
       },
-      "e10": 2.258,
+      "e10": 2.257,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "Nordstr.",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 25,
-      "e5": 2.293,
+      "station_count": 24,
+      "e5": 2.294,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.269
       },
-      "e10": 2.233,
+      "e10": 2.234,
       "e10_cheapest": {
         "brand": "Markant (Tankautomat)",
         "street": "Zum Bauverein",
         "place": "Gelsenkirchen",
         "price": 2.209
       },
-      "diesel": 2.373,
+      "diesel": 2.375,
       "diesel_cheapest": {
         "brand": "Markant",
         "street": "Bottroper Str.",
