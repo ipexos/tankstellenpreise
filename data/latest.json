@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:58:16+00:00",
+  "updated_at": "2026-09-28T01:25:37+00:00",
   "national_average": {
     "e5": 2.309,
     "e10": 2.249,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 68,
+      "station_count": 66,
       "e5": 2.327,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 74,
-      "e5": 2.323,
+      "station_count": 73,
+      "e5": 2.324,
       "e5_cheapest": {
         "brand": "SVG",
         "street": "Bullerdeich",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 56,
+      "station_count": 55,
       "e5": 2.244,
       "e5_cheapest": {
         "brand": "ALLGUTH",
