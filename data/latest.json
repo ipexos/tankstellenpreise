@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T23:29:10+00:00",
+  "updated_at": "2026-10-02T02:28:45+00:00",
   "national_average": {
     "e5": 2.158,
     "e10": 2.099,
@@ -58,8 +58,8 @@
     },
     {
       "name": "München",
-      "station_count": 56,
-      "e5": 2.121,
+      "station_count": 55,
+      "e5": 2.122,
       "e5_cheapest": {
         "brand": "V-Markt",
         "street": "Maria-Probst-Straße",
@@ -73,7 +73,7 @@
         "place": "München",
         "price": 2.018
       },
-      "diesel": 2.218,
+      "diesel": 2.219,
       "diesel_cheapest": {
         "brand": "",
         "street": "Friedenstraße",
@@ -83,22 +83,22 @@
     },
     {
       "name": "Köln",
-      "station_count": 40,
-      "e5": 2.18,
+      "station_count": 41,
+      "e5": 2.179,
       "e5_cheapest": {
         "brand": "SVG-Nordrhein eG",
         "street": "Am Eifeltor",
         "place": "Köln",
         "price": 2.119
       },
-      "e10": 2.123,
+      "e10": 2.122,
       "e10_cheapest": {
         "brand": "SVG-Nordrhein eG",
         "street": "Am Eifeltor",
         "place": "Köln",
         "price": 2.059
       },
-      "diesel": 2.277,
+      "diesel": 2.276,
       "diesel_cheapest": {
         "brand": "ARAL",
         "street": "Düsseldorfer Straße",
@@ -183,27 +183,27 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.181,
+      "station_count": 27,
+      "e5": 2.18,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.118
       },
-      "e10": 2.121,
+      "e10": 2.12,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.058
       },
-      "diesel": 2.264,
+      "diesel": 2.262,
       "diesel_cheapest": {
-        "brand": "Globus SB Warenhaus",
-        "street": "An der Passage",
+        "brand": "STAR",
+        "street": "Leipziger Straße",
         "place": "Leipzig",
-        "price": 2.238
+        "price": 2.229
       }
     },
     {
