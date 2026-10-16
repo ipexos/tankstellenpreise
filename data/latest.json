@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T23:50:36+00:00",
+  "updated_at": "2026-10-16T01:44:06+00:00",
   "national_average": {
     "e5": 2.136,
-    "e10": 2.078,
+    "e10": 2.077,
     "diesel": 2.226
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 67,
+      "station_count": 68,
       "e5": 2.098,
       "e5_cheapest": {
         "brand": "Sprint",
@@ -16,14 +16,14 @@
         "place": "Berlin",
         "price": 2.069
       },
-      "e10": 2.039,
+      "e10": 2.038,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Kniprodestr.",
         "place": "Berlin",
         "price": 2.009
       },
-      "diesel": 2.194,
+      "diesel": 2.193,
       "diesel_cheapest": {
         "brand": "SB",
         "street": "Fraunhofer Straße",
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 56,
-      "e5": 2.111,
+      "station_count": 55,
+      "e5": 2.112,
       "e5_cheapest": {
         "brand": "ELAN",
         "street": "Muenchner Str.",
         "place": "Unterhaching",
         "price": 2.059
       },
-      "e10": 2.051,
+      "e10": 2.052,
       "e10_cheapest": {
         "brand": "ELAN",
         "street": "Muenchner Str.",
@@ -183,15 +183,15 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
-      "e5": 2.126,
+      "station_count": 26,
+      "e5": 2.125,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.088
       },
-      "e10": 2.067,
+      "e10": 2.066,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
