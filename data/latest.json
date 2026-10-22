@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:17:38+00:00",
+  "updated_at": "2026-10-22T00:43:19+00:00",
   "national_average": {
     "e5": 2.101,
     "e10": 2.043,
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 53,
+      "station_count": 52,
       "e5": 2.026,
       "e5_cheapest": {
         "brand": "",
@@ -148,7 +148,7 @@
         "place": "Stuttgart",
         "price": 1.989
       },
-      "diesel": 2.221,
+      "diesel": 2.22,
       "diesel_cheapest": {
         "brand": "ORLEN Express",
         "street": "Augsburger Str.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 26,
+      "station_count": 24,
       "e5": 2.103,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 24,
+      "station_count": 23,
       "e5": 2.138,
       "e5_cheapest": {
         "brand": "SB",
@@ -248,7 +248,7 @@
         "place": "Essen",
         "price": 2.049
       },
-      "diesel": 2.213,
+      "diesel": 2.214,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
