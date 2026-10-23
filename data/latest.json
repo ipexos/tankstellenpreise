@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-22T22:25:35+00:00",
+  "updated_at": "2026-10-23T00:46:31+00:00",
   "national_average": {
     "e5": 2.13,
-    "e10": 2.072,
-    "diesel": 2.239
+    "e10": 2.073,
+    "diesel": 2.24
   },
   "cities": [
     {
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 53,
+      "station_count": 52,
       "e5": 2.01,
       "e5_cheapest": {
         "brand": "Bavaria Petrol",
@@ -183,22 +183,22 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 25,
-      "e5": 2.111,
+      "station_count": 23,
+      "e5": 2.114,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.068
       },
-      "e10": 2.052,
+      "e10": 2.055,
       "e10_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
         "place": "Leipzig",
         "price": 2.008
       },
-      "diesel": 2.23,
+      "diesel": 2.234,
       "diesel_cheapest": {
         "brand": "Globus SB Warenhaus",
         "street": "An der Passage",
@@ -233,22 +233,22 @@
     },
     {
       "name": "Essen",
-      "station_count": 24,
-      "e5": 2.208,
+      "station_count": 23,
+      "e5": 2.211,
       "e5_cheapest": {
         "brand": "SB",
         "street": "Deipenbecktal",
         "place": "Essen",
         "price": 2.119
       },
-      "e10": 2.152,
+      "e10": 2.155,
       "e10_cheapest": {
         "brand": "SB",
         "street": "Deipenbecktal",
         "place": "Essen",
         "price": 2.059
       },
-      "diesel": 2.26,
+      "diesel": 2.262,
       "diesel_cheapest": {
         "brand": "ESSO",
         "street": "AKTIENSTR. 34 A",
