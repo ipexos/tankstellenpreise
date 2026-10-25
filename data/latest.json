@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T23:33:52+00:00",
+  "updated_at": "2026-10-25T01:31:53+00:00",
   "national_average": {
     "e5": 2.109,
     "e10": 2.051,
@@ -8,7 +8,7 @@
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 71,
+      "station_count": 72,
       "e5": 2.058,
       "e5_cheapest": {
         "brand": "Q1",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 58,
+      "station_count": 57,
       "e5": 2.014,
       "e5_cheapest": {
         "brand": "ELAN",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 28,
+      "station_count": 27,
       "e5": 2.149,
       "e5_cheapest": {
         "brand": "JET",
@@ -241,7 +241,7 @@
         "place": "ESSEN",
         "price": 2.139
       },
-      "e10": 2.09,
+      "e10": 2.091,
       "e10_cheapest": {
         "brand": "JET",
         "street": "OSTFELDSTR.",
