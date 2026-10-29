@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:23:12+00:00",
+  "updated_at": "2026-10-29T02:33:10+00:00",
   "national_average": {
     "e5": 2.062,
     "e10": 2.006,
@@ -58,15 +58,15 @@
     },
     {
       "name": "München",
-      "station_count": 53,
-      "e5": 2.028,
+      "station_count": 52,
+      "e5": 2.027,
       "e5_cheapest": {
         "brand": "ALLGUTH",
         "street": "Triebstraße",
         "place": "München",
         "price": 1.969
       },
-      "e10": 1.971,
+      "e10": 1.97,
       "e10_cheapest": {
         "brand": "Shell",
         "street": "Moosacher Str.",
@@ -209,7 +209,7 @@
     {
       "name": "Dortmund",
       "station_count": 30,
-      "e5": 2.093,
+      "e5": 2.092,
       "e5_cheapest": {
         "brand": "SB",
         "street": "Dernerstr.",
