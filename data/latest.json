@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:43:49+00:00",
+  "updated_at": "2026-11-01T02:36:13+00:00",
   "national_average": {
     "e5": 2.081,
     "e10": 2.024,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 75,
       "e5": 2.078,
       "e5_cheapest": {
         "brand": "CleanCar Tankautomat",
@@ -41,7 +41,7 @@
         "place": "Hamburg",
         "price": 2.009
       },
-      "e10": 2.021,
+      "e10": 2.02,
       "e10_cheapest": {
         "brand": "JET",
         "street": "DEELBOEGE",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 53,
+      "station_count": 52,
       "e5": 2.01,
       "e5_cheapest": {
         "brand": "Bavaria Petrol",
