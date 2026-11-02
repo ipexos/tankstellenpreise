@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T23:52:30+00:00",
+  "updated_at": "2026-11-02T02:48:50+00:00",
   "national_average": {
-    "e5": 2.083,
+    "e5": 2.082,
     "e10": 2.025,
     "diesel": 2.234
   },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 75,
+      "station_count": 74,
       "e5": 2.09,
       "e5_cheapest": {
         "brand": "CleanCar Tankautomat",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 53,
-      "e5": 2.024,
+      "station_count": 52,
+      "e5": 2.023,
       "e5_cheapest": {
         "brand": "Bavaria Petrol",
         "street": "Ingolstädter Straße",
         "place": "München",
         "price": 1.969
       },
-      "e10": 1.967,
+      "e10": 1.966,
       "e10_cheapest": {
         "brand": "Bavaria Petrol",
         "street": "Ingolstädter Straße",
         "place": "München",
         "price": 1.909
       },
-      "diesel": 2.232,
+      "diesel": 2.231,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "LANDSBERGER STR.",
