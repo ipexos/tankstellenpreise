@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-08T23:08:24+00:00",
+  "updated_at": "2026-11-09T02:37:05+00:00",
   "national_average": {
     "e5": 2.003,
-    "e10": 1.947,
+    "e10": 1.946,
     "diesel": 2.191
   },
   "cities": [
     {
       "name": "Berlin",
-      "station_count": 64,
+      "station_count": 67,
       "e5": 2.0,
       "e5_cheapest": {
         "brand": "Q1",
@@ -16,14 +16,14 @@
         "place": "Berlin",
         "price": 1.929
       },
-      "e10": 1.943,
+      "e10": 1.942,
       "e10_cheapest": {
         "brand": "Sprint",
         "street": "Reuter Str.",
         "place": "Berlin",
         "price": 1.879
       },
-      "diesel": 2.189,
+      "diesel": 2.19,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "KREUZBERGSTR.",
@@ -58,7 +58,7 @@
     },
     {
       "name": "München",
-      "station_count": 53,
+      "station_count": 52,
       "e5": 1.946,
       "e5_cheapest": {
         "brand": "ALLGUTH",
@@ -66,7 +66,7 @@
         "place": "München",
         "price": 1.889
       },
-      "e10": 1.889,
+      "e10": 1.888,
       "e10_cheapest": {
         "brand": "Shell",
         "street": "Moosacher Str.",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Leipzig",
-      "station_count": 24,
+      "station_count": 25,
       "e5": 1.939,
       "e5_cheapest": {
         "brand": "Globus SB Warenhaus",
@@ -283,22 +283,22 @@
     },
     {
       "name": "Dresden",
-      "station_count": 18,
-      "e5": 2.054,
+      "station_count": 19,
+      "e5": 2.053,
       "e5_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
         "price": 2.028
       },
-      "e10": 1.994,
+      "e10": 1.993,
       "e10_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
         "place": "Dresden",
         "price": 1.968
       },
-      "diesel": 2.195,
+      "diesel": 2.194,
       "diesel_cheapest": {
         "brand": "Greenline",
         "street": "Großenhainer Str.",
