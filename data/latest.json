@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:51:25+00:00",
+  "updated_at": "2026-11-15T03:12:08+00:00",
   "national_average": {
     "e5": 1.962,
     "e10": 1.905,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Hamburg",
-      "station_count": 73,
+      "station_count": 74,
       "e5": 1.976,
       "e5_cheapest": {
         "brand": "CleanCar Tankautomat",
@@ -58,22 +58,22 @@
     },
     {
       "name": "München",
-      "station_count": 53,
-      "e5": 1.91,
+      "station_count": 52,
+      "e5": 1.909,
       "e5_cheapest": {
         "brand": "JET",
         "street": "FRANKFURTER RING",
         "place": "MUENCHEN",
         "price": 1.849
       },
-      "e10": 1.853,
+      "e10": 1.852,
       "e10_cheapest": {
         "brand": "JET",
         "street": "FRANKFURTER RING",
         "place": "MUENCHEN",
         "price": 1.789
       },
-      "diesel": 2.192,
+      "diesel": 2.191,
       "diesel_cheapest": {
         "brand": "JET",
         "street": "LANDSBERGER STR.",
@@ -233,7 +233,7 @@
     },
     {
       "name": "Essen",
-      "station_count": 24,
+      "station_count": 25,
       "e5": 2.002,
       "e5_cheapest": {
         "brand": "Markant (Tankautomat)",
